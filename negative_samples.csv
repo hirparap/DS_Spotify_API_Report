@@ -1,0 +1,1001 @@
+,Name,Artist,Acousticness,Danceability,Speechiness,Energy,Liveness,Valence,Key,Mode,Tempo,Duration,Popularity
+0,"Clarinet Sonata No. 1 in F Minor, Op. 120 No. 1: I. Allegro appassionato",Johannes Brahms,0.991,0.304,0.0387,0.0271,0.103,0.134,10.0,0.0,103.302,449664.0,15.0
+1,The Reactor / The Hologram,Jerry Goldsmith,0.685,0.26,0.0508,0.0913,0.0828,0.0336,9.0,1.0,143.728,339587.0,31.0
+2,"Nocturne No.2 in C Minor, H.25",John Field,0.993,0.349,0.0379,0.0644,0.0996,0.0458,0.0,0.0,79.832,191853.0,47.0
+3,Crazy Love - Demo,Paul Simon,0.222,0.724,0.0362,0.77,0.0437,0.948,0.0,1.0,125.472,151120.0,42.0
+4,"Piano Trio No. 1 In G Major, Hob.XV:25 - ""Gypsy"": 1. Andante",Franz Joseph Haydn,0.975,0.34,0.0407,0.0642,0.144,0.567,7.0,1.0,146.581,343347.0,41.0
+5,Mazurka No.25 In B Minor Op.33 No.4,Frédéric Chopin,0.99,0.378,0.0413,0.0338,0.137,0.139,4.0,0.0,97.582,274467.0,18.0
+6,"Piano Concerto No. 1 in G Minor, Op. 25, MWV O7: 1. Molto allegro con fuoco",Felix Mendelssohn,0.985,0.318,0.0398,0.171,0.0607,0.262,7.0,0.0,74.159,451267.0,17.0
+7,"Études, Op. 10: No. 1 in C Major ""Waterfall""",Frédéric Chopin,0.955,0.135,0.0354,0.316,0.179,0.277,0.0,1.0,77.127,123840.0,24.0
+8,"Rockin' Horse (Live at Murat Centre, Indianapolis, In, 7/25/2003)",The Allman Brothers Band,0.0596,0.38,0.0529,0.882,0.435,0.67,9.0,1.0,110.741,525195.0,12.0
+9,"12 Études, Op. 25: Étude No. 11 in A Minor",Frédéric Chopin,0.967,0.328,0.0357,0.203,0.11,0.104,9.0,0.0,91.76,211907.0,37.0
+10,Llorando Se Fue,Jorge Meza Y Su Tropi Colombia,0.125,0.725,0.0295,0.671,0.301,0.742,10.0,0.0,87.528,255547.0,41.0
+11,"Études, Op. 25: No. 1 in A-Flat Major ""Harp Study""",Frédéric Chopin,0.981,0.36,0.0476,0.098,0.0883,0.0338,8.0,1.0,71.937,150293.0,21.0
+12,"Clarinet Sonata No. 1 in F Minor, Op. 120 No. 1: II. Andante un poco adagio",Johannes Brahms,0.99,0.111,0.0457,0.00267,0.079,0.0636,8.0,1.0,75.406,300738.0,13.0
+13,Cupido Loco,Grupo Impacto De Montemorelos,0.198,0.902,0.0526,0.677,0.0503,0.942,7.0,1.0,93.956,157880.0,19.0
+14,Plateau - Live Version,Nirvana,0.511,0.44,0.115,0.496,0.552,0.317,4.0,1.0,83.971,218040.0,48.0
+15,All Around the World or the Myth of Fingerprints (Early Version),Paul Simon,0.393,0.586,0.0567,0.761,0.064,0.809,0.0,1.0,89.126,197733.0,43.0
+16,Cuando Regreses,Patrulla 81,0.0523,0.589,0.0303,0.533,0.298,0.572,7.0,1.0,139.975,204427.0,30.0
+17,"Gloria's Step - Take 3 / Live At The Village Vanguard, NYC; 6/25/1961",Bill Evans Trio,0.854,0.446,0.0414,0.238,0.668,0.365,5.0,1.0,77.869,417320.0,29.0
+18,Rejoice (feat. Elizabeth Mordaunt) - Original Mix,Bluejean,0.0139,0.693,0.0352,0.893,0.262,0.891,4.0,1.0,125.996,299760.0,24.0
+19,Mi Cómplice,Cardenales De Nuevo León,0.358,0.791,0.0415,0.682,0.0705,0.9,11.0,1.0,98.864,191307.0,24.0
+20,25e boîte,Jean-Michel Bernard,0.336,0.533,0.0382,0.364,0.111,0.439,7.0,1.0,110.018,159696.0,1.0
+21,"Rain on a Tin Roof with Distant Thunder Sounds, Pt. 25",Thunderstorm Global Project,0.122,0.343,0.447,0.981,0.916,0.0171,1.0,1.0,84.232,101099.0,39.0
+22,Como Un Sueño,Jorge Meza Y Su Tropi Colombia,0.635,0.61,0.034,0.805,0.126,0.865,10.0,1.0,167.891,233213.0,25.0
+23,La soledad,Laura Pausini,0.677,0.585,0.0368,0.444,0.171,0.26,1.0,1.0,132.713,239867.0,43.0
+24,"Creepin' - Live At The Palace At Auburn Hills, Auburn Hills, MI / February 25, 2017",Eric Church,0.161,0.451,0.0884,0.952,0.57,0.243,5.0,1.0,176.282,261880.0,25.0
+25,Belong,R.E.M.,0.0323,0.526,0.0292,0.728,0.218,0.57,7.0,1.0,102.599,246547.0,39.0
+26,Homeless (Demo),Paul Simon,0.929,0.32,0.0371,0.144,0.117,0.341,7.0,0.0,124.651,150733.0,45.0
+27,No Que No,Rigo Tovar,0.122,0.442,0.0281,0.699,0.166,0.966,9.0,1.0,95.891,178227.0,32.0
+28,Mr. Muhammad,A Tribe Called Quest,0.135,0.841,0.288,0.795,0.151,0.522,1.0,1.0,103.659,213253.0,37.0
+29,Officer,The Pharcyde,0.0778,0.849,0.238,0.837,0.717,0.736,10.0,0.0,102.343,240240.0,21.0
+30,"Keep Yourself Alive - BBC Session / July 25th 1973, Langham 1 Studio",Queen,0.207,0.48,0.0555,0.706,0.048,0.516,9.0,1.0,136.093,230760.0,26.0
+31,Sanctum Aves,Daniel Emme,0.969,0.429,0.0411,0.0719,0.159,0.06,0.0,1.0,107.287,153308.0,15.0
+32,Open The Eyes Of My Heart - Instrumental,Maranatha! Instrumental,0.171,0.723,0.0314,0.737,0.082,0.403,5.0,1.0,114.028,250800.0,25.0
+33,Solo,Intocable,0.379,0.719,0.038,0.659,0.238,0.707,0.0,1.0,117.687,198733.0,28.0
+34,"Bagatelle No. 25 In A Minor ""Für Elise"", Woo 59, Bia 515, (Arr. For Barock Metal Band)",Aethereum,0.588,0.423,0.0468,0.815,0.169,0.0764,7.0,0.0,152.31,238026.0,30.0
+35,Texarkana,R.E.M.,0.0222,0.375,0.0407,0.845,0.2,0.934,2.0,1.0,143.662,219560.0,39.0
+36,"Études, Op. 25: No. 12 in C Minor",Frédéric Chopin,0.961,0.15,0.0368,0.175,0.104,0.0513,5.0,0.0,69.938,155227.0,24.0
+37,Loco Por Ti,Los Bukis,0.704,0.728,0.0242,0.76,0.047,0.968,2.0,1.0,104.757,234320.0,18.0
+38,Felitsa (Bonus Track) - Remastered,Yanni,0.831,0.118,0.0332,0.397,0.703,0.0647,2.0,0.0,80.407,303120.0,32.0
+39,Oh Me - Live Version,Nirvana,0.716,0.544,0.0809,0.522,0.157,0.243,8.0,1.0,71.404,206133.0,47.0
+40,"Bagatelle No. 25 in A Minor, ""Für Elise"", WoO 59",Ludwig van Beethoven,0.985,0.256,0.0427,0.0701,0.0669,0.0987,5.0,1.0,131.157,207627.0,44.0
+41,How Great Is Our God,Maranatha! Instrumental,0.703,0.582,0.0337,0.401,0.113,0.0878,0.0,1.0,79.08,333680.0,39.0
+42,Out of Here Tonight,The Great Divide,0.0302,0.497,0.0299,0.725,0.211,0.407,7.0,1.0,121.376,213525.0,18.0
+43,Lacrime,I Muvrini,0.722,0.362,0.03,0.348,0.102,0.341,7.0,1.0,104.32,334600.0,5.0
+44,"Hot 'Lanta (Live at Murat Centre, Indianapolis, In, 7/25/2003)",The Allman Brothers Band,0.148,0.349,0.0769,0.851,0.891,0.322,4.0,0.0,112.738,322003.0,13.0
+45,Yo Te Pido Amor,Paquito Guzman,0.636,0.729,0.0428,0.909,0.0813,0.925,0.0,1.0,93.734,332000.0,22.0
+46,"Mozart: Piano Concerto No. 25 in C Major, K. 503: III. Allegretto",Wolfgang Amadeus Mozart,0.985,0.3,0.0344,0.109,0.0598,0.389,0.0,1.0,88.945,540800.0,30.0
+47,"The Sleeping Beauty, Op.66, TH.13 / Act 3: 25c. Pas de quatre: Variation II (Bluebird and Florisse)",Pyotr Ilyich Tchaikovsky,0.952,0.606,0.11,0.0962,0.172,0.712,0.0,1.0,153.768,42000.0,21.0
+48,Je Ne Veux Pas La Fin De Nous (I Just Can't Stop Loving You) - French Version,Michael Jackson,0.601,0.65,0.0339,0.508,0.0828,0.222,5.0,1.0,100.149,247933.0,36.0
+49,The House - Instrumental,John Williams,0.943,0.336,0.0289,0.0498,0.0915,0.101,2.0,0.0,97.306,147173.0,33.0
+50,This Old Man,All 4 Kids,0.976,0.85,0.0805,0.071,0.109,0.601,7.0,1.0,94.428,123809.0,40.0
+51,"Études, Op. 25: I. Etude in A-Flat Major ""Aeolian Harp""",Frédéric Chopin,0.982,0.326,0.0357,0.0453,0.073,0.0395,8.0,1.0,107.671,151067.0,25.0
+52,Wanna Be Startin' Somethin' 2008 with Akon (with Akon) - Thriller 25th Anniversary Remix,Michael Jackson,0.117,0.82,0.0723,0.952,0.106,0.36,5.0,1.0,121.949,254120.0,41.0
+53,"Dancing in the Streets - Live at Capital Centre, September 25, 1976",Grateful Dead,0.55,0.669,0.0485,0.589,0.119,0.811,2.0,1.0,129.226,763027.0,14.0
+54,Escribiendo Victoria (En Vivo),Danny Berrios,0.564,0.524,0.0503,0.907,0.466,0.453,8.0,1.0,141.922,277002.0,25.0
+55,25 Lighters - Chopped & Screwed,Lil Keke,0.1,0.9,0.188,0.479,0.366,0.451,1.0,0.0,132.61,347533.0,20.0
+56,Circle of Friends - 25th Anniversary Re-Mastered Edition,Better Than Ezra,0.00138,0.435,0.0773,0.872,0.262,0.685,11.0,0.0,159.965,206200.0,18.0
+57,Rain in a Car - Part 25,Background Noise From TraxLab,0.782,0.261,0.0644,0.997,0.957,0.00762,2.0,1.0,59.511,60684.0,26.0
+58,"Études, Op. 25: No. 11 in A Minor",Frédéric Chopin,0.979,0.204,0.043,0.239,0.107,0.0779,0.0,1.0,166.706,229093.0,38.0
+59,Akhret Al Shaqawa,Ahmed Mekky,0.337,0.664,0.305,0.916,0.202,0.769,2.0,1.0,91.88,353230.0,36.0
+60,I Give You My Heart - Top 25 Praise Songs 2007 Album Version,Maranatha! Praise Band,0.35,0.495,0.0248,0.446,0.0956,0.182,7.0,1.0,74.918,300040.0,26.0
+61,Forever's as Far as I'll Go,Alabama,0.692,0.401,0.028,0.153,0.0738,0.0792,3.0,1.0,135.057,215240.0,32.0
+62,Invisible,Intocable,0.373,0.662,0.0423,0.732,0.0728,0.897,10.0,1.0,146.356,198933.0,26.0
+63,Beautiful One,Maranatha! Instrumental,0.16,0.453,0.0345,0.727,0.0877,0.445,2.0,1.0,120.045,321000.0,26.0
+64,"Études, Op. 25: No. 12 in C Minor",Frédéric Chopin,0.961,0.15,0.0368,0.175,0.104,0.0513,5.0,0.0,69.938,155227.0,24.0
+65,Plateau - Rehearsal,Nirvana,0.249,0.536,0.0709,0.274,0.172,0.194,1.0,0.0,83.576,280132.0,42.0
+66,I Could Sing Of Your Love Forever,Sonicflood,0.104,0.542,0.0268,0.699,0.103,0.683,4.0,1.0,90.99,214333.0,30.0
+67,Better Man,Pearl Jam,0.17,0.394,0.0346,0.553,0.973,0.221,5.0,1.0,124.738,285707.0,34.0
+68,El Negro Tiene Tunbao,Zilo Groove,0.00852,0.778,0.0655,0.62,0.168,0.966,5.0,0.0,119.991,210927.0,18.0
+69,"12 Etudes, Op.25: No.6 In G Sharp Minor",Frédéric Chopin,0.988,0.265,0.0348,0.203,0.1,0.128,8.0,0.0,143.574,121600.0,23.0
+70,25e boîte,Jean-Michel Bernard,0.336,0.533,0.0382,0.364,0.111,0.439,7.0,1.0,110.018,159696.0,1.0
+71,The Big Strong Man,The Wolfe Tones,0.573,0.753,0.127,0.716,0.131,0.793,9.0,1.0,99.823,129800.0,31.0
+72,5-10-15-20 (25-30 Years of Love),The Presidents,0.612,0.451,0.0593,0.682,0.0651,0.737,0.0,1.0,152.669,193027.0,23.0
+73,Diamonds on the Soles of Her Shoes - Alternate Unreleased Version,Paul Simon,0.964,0.748,0.0401,0.271,0.09,0.715,5.0,1.0,110.793,281333.0,45.0
+74,Rainstorm in the Woods - Part 25,Thunderstorm Global Project from TraxLab,0.0137,0.218,0.0608,0.83,0.414,0.0333,1.0,1.0,76.218,69079.0,30.0
+75,Beautiful One,Maranatha! Instrumental,0.16,0.453,0.0345,0.727,0.0877,0.445,2.0,1.0,120.045,321000.0,26.0
+76,Day I Die - Live at Berkeley 9/24/18,The National,0.0256,0.327,0.149,0.718,0.886,0.27,2.0,1.0,146.997,332225.0,29.0
+77,Hello Darlin',Conway Twitty,0.959,0.409,0.0289,0.264,0.133,0.38,0.0,1.0,83.032,147079.0,22.0
+78,"12 Etudes, Op.25: No.8 In D Flat",Frédéric Chopin,0.989,0.328,0.047,0.296,0.113,0.138,1.0,1.0,114.014,64267.0,38.0
+79,"Études, Op. 25: No. 11 in A Minor ""Winter Wind""",Frédéric Chopin,0.964,0.3,0.0355,0.261,0.0901,0.0971,9.0,0.0,65.879,208107.0,26.0
+80,Tu Traición,Grupo Bryndis,0.242,0.74,0.0332,0.738,0.122,0.942,7.0,1.0,84.593,213693.0,30.0
+81,Etude Op. 25 : No. 5 in E Minor,Frédéric Chopin,0.994,0.248,0.0467,0.056,0.0984,0.0636,4.0,1.0,63.91,222533.0,21.0
+82,Moule el Koutche,Khaled,0.452,0.72,0.0413,0.528,0.0615,0.962,0.0,0.0,140.278,234307.0,33.0
+83,Beautiful One,Maranatha! Instrumental,0.16,0.453,0.0345,0.727,0.0877,0.445,2.0,1.0,120.045,321000.0,26.0
+84,"Chopin: Etude in F Major, Op. 25 No. 3",Frédéric Chopin,0.986,0.228,0.0318,0.284,0.0831,0.381,0.0,1.0,131.487,110840.0,22.0
+85,"Trial of Tears - Live at the Boston Opera House, Boston, MA, 3/25/2014",Dream Theater,0.00636,0.23,0.0808,0.907,0.83,0.193,1.0,1.0,118.406,922573.0,24.0
+86,In Tune with You,Mindfulness Meditation Music Spa Maestro,0.941,0.166,0.0444,0.00244,0.109,0.0369,0.0,1.0,127.333,271999.0,18.0
+87,"Symphony No.25 In G Minor, K. 173dB (K.183): Andante",Wolfgang Amadeus Mozart,0.982,0.212,0.0412,0.00983,0.152,0.0671,10.0,1.0,135.837,251547.0,25.0
+88,"Uncle John's Band - Live at Lyceum, London, England 5/25/1972",Grateful Dead,0.661,0.51,0.0294,0.406,0.0657,0.473,7.0,1.0,129.0,591080.0,16.0
+89,"Swan Lake, Op.20, Act IV: 25. Entr'acte (Moderato)",Pyotr Ilyich Tchaikovsky,0.965,0.305,0.0409,0.00601,0.0932,0.0454,1.0,1.0,136.179,111667.0,26.0
+90,"12 Etudes, Op.25: No.9 In G Flat",Frédéric Chopin,0.987,0.415,0.0453,0.28,0.132,0.721,1.0,1.0,121.601,56493.0,17.0
+91,Celebration - Excerpt From Shasta - Sacred Mountain Vol. 1,Suzanne Doucet,0.914,0.296,0.0334,0.258,0.108,0.0392,0.0,1.0,160.012,212013.0,23.0
+92,"Playing in the Band - Live at Lyceum, London, England 5/25/1972",Grateful Dead,0.753,0.563,0.0287,0.479,0.743,0.62,7.0,1.0,124.593,949800.0,16.0
+93,Feels So Right,Alabama,0.522,0.546,0.0233,0.338,0.0866,0.346,10.0,1.0,90.247,215787.0,44.0
+94,Companerò,Canta U Populu Corsu,0.532,0.432,0.03,0.4,0.288,0.278,0.0,1.0,97.062,253933.0,6.0
+95,Where Were You - 2019 Remaster,Hootie & The Blowfish,0.313,0.495,0.0375,0.808,0.139,0.746,2.0,1.0,94.862,234907.0,26.0
+96,Mino de France,Mino,0.183,0.598,0.16,0.833,0.196,0.567,0.0,1.0,138.076,223667.0,4.0
+97,Cómo Me Voy a Olvidar (feat. No Te Va Gustar) - Vivo en el Palacio de los Deportes,Los Auténticos Decadentes,0.1,0.441,0.101,0.845,0.85,0.821,2.0,1.0,145.215,203865.0,50.0
+98,Here Comes the Flood - Live,Peter Gabriel,0.898,0.389,0.0374,0.314,0.716,0.179,1.0,0.0,126.605,167960.0,18.0
+99,"Cumberland Blues - Live at Nationwide Arena, Columbus, OH 11/25/17",Dead & Company,0.19,0.544,0.0311,0.569,0.989,0.641,0.0,1.0,96.496,652300.0,22.0
+100,"Piano Concerto No. 1 in G Minor, Op. 25, MWV O7: 2. Andante",Felix Mendelssohn,0.985,0.239,0.0374,0.0155,0.0628,0.0384,4.0,1.0,79.809,392333.0,22.0
+101,"Chopin: Etude in A Minor, Op. 25 No. 11, ""Winter Wind""",Frédéric Chopin,0.966,0.236,0.0381,0.288,0.0954,0.0703,0.0,1.0,86.123,236587.0,40.0
+102,"Spare Me a Little - Live at Jorgensen Auditorium, University of Connecticut, Storrs, CT, 10/25/75",Fleetwood Mac,0.012,0.426,0.0302,0.695,0.888,0.77,7.0,1.0,99.181,270133.0,15.0
+103,La Herencia,Juan Gabriel,0.0493,0.349,0.0384,0.424,0.9,0.576,0.0,1.0,202.112,275200.0,37.0
+104,"12 Etudes, Op.25: No.12 In C Minor",Frédéric Chopin,0.992,0.271,0.0317,0.253,0.189,0.053,5.0,0.0,75.106,151400.0,26.0
+105,"Serenade in D, K.250 ""Haffner"": 8b. Allegro assai",Wolfgang Amadeus Mozart,0.953,0.396,0.0414,0.165,0.0468,0.418,2.0,1.0,108.874,377000.0,13.0
+106,Prayer of the Comfort Counselor,25th Annual Putnam County Spelling Bee Original Cast,0.771,0.488,0.0446,0.387,0.544,0.528,9.0,0.0,103.898,140280.0,28.0
+107,How Deep The Father's Love For Us,Nichole Nordeman,0.821,0.499,0.0291,0.257,0.117,0.409,2.0,1.0,107.85,228413.0,36.0
+108,"12 Etudes, Op.25: No.3 In F",Frédéric Chopin,0.993,0.319,0.0334,0.123,0.0822,0.479,0.0,1.0,130.967,111200.0,27.0
+109,Did You Ever,Tammy Wynette,0.702,0.603,0.0318,0.253,0.107,0.781,5.0,1.0,74.07,126867.0,22.0
+110,Tennessee Jed - Live 2018-10-25,Joe Russo's Almost Dead,0.344,0.609,0.0388,0.555,0.237,0.685,0.0,1.0,129.199,671640.0,15.0
+111,"(Anesthesia) - Pulling Teeth (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.893,0.258,0.0692,0.674,0.526,0.291,2.0,1.0,124.085,177253.0,22.0
+112,Silver Scrapes,Chronic Crew,0.00193,0.603,0.0374,0.687,0.0676,0.234,7.0,1.0,140.042,116049.0,27.0
+113,"Piano Trio in G Major ""Gypsy"", Hob. XV:25: III. Finale. Rondo all' Ongarese. Presto",Franz Joseph Haydn,0.963,0.436,0.0352,0.21,0.167,0.958,7.0,1.0,150.608,196000.0,21.0
+114,Ey Yo Mike,257ers,0.0227,0.751,0.311,0.562,0.135,0.818,1.0,1.0,92.044,153107.0,22.0
+115,"Goldberg Variations, BWV 988: Variation 25 a 2 Clav.",Johann Sebastian Bach,0.995,0.526,0.0644,0.0205,0.0949,0.152,0.0,0.0,138.769,362480.0,41.0
+116,"Études, Op. 25: I. Etude in A-Flat Major ""Aeolian Harp""",Frédéric Chopin,0.982,0.326,0.0357,0.0453,0.073,0.0395,8.0,1.0,107.671,151067.0,25.0
+117,Doubleback - Extended Version,Alan Silvestri,0.17,0.597,0.0343,0.489,0.181,0.657,0.0,1.0,127.927,193107.0,31.0
+118,Losing My Religion 1 - Demo,R.E.M.,0.0769,0.675,0.0406,0.753,0.136,0.955,9.0,0.0,121.715,240159.0,33.0
+119,Wish I Didn't Know Now,Toby Keith,0.462,0.77,0.036,0.815,0.323,0.829,7.0,1.0,117.082,206307.0,30.0
+120,Etude Op. 25 : No. 8 in D-flat Major,Frédéric Chopin,0.994,0.21,0.0495,0.227,0.109,0.4,1.0,1.0,170.597,89467.0,19.0
+121,"Prichudi, Op. 25: I. Andante semplice e narrante",Nikolai Myaskovsky,0.995,0.547,0.0978,0.00772,0.0557,0.126,9.0,0.0,64.73,118133.0,21.0
+122,Symphony No.29 In A Major K.186a (K. 201): Allegro moderato,Wolfgang Amadeus Mozart,0.957,0.382,0.0499,0.147,0.0848,0.441,9.0,1.0,144.051,488747.0,25.0
+123,Yo Quiero Mas De Ti,Jaime Murrell,0.855,0.413,0.0343,0.286,0.867,0.18,11.0,1.0,118.009,456133.0,47.0
+124,"Mozart: Piano Concerto No. 27 in B-Flat Major, K. 595: I. Allegro",Wolfgang Amadeus Mozart,0.983,0.362,0.0419,0.0756,0.1,0.207,10.0,1.0,129.58,838213.0,30.0
+125,"Etudes, Op. 25: No. 2 in F Minor",Frédéric Chopin,0.992,0.251,0.0386,0.0768,0.112,0.256,5.0,0.0,70.168,97533.0,12.0
+126,"12 Etudes, Op.25: No.6 In G Sharp Minor",Frédéric Chopin,0.979,0.272,0.039,0.205,0.111,0.137,8.0,0.0,72.906,125933.0,31.0
+127,Prayer of the Comfort Counselor,25th Annual Putnam County Spelling Bee Original Cast,0.771,0.488,0.0446,0.387,0.544,0.528,9.0,0.0,103.898,140280.0,28.0
+128,Der Kommissar,Falco,0.0393,0.932,0.0437,0.766,0.0471,0.939,9.0,0.0,118.232,231000.0,48.0
+129,Orange Crush - Remastered,R.E.M.,0.000613,0.568,0.04,0.701,0.17,0.638,9.0,1.0,120.678,231640.0,47.0
+130,"Symphony No. 25 in G Minor, K. 183: II. Andante",Wolfgang Amadeus Mozart,0.977,0.0989,0.0449,0.0179,0.208,0.0396,10.0,1.0,75.642,357773.0,29.0
+131,"Dark Side - Live At Wells Fargo Arena, Philadelphia, PA / January 25, 2017",Eric Church,0.0157,0.537,0.0374,0.558,0.433,0.127,0.0,1.0,85.106,231000.0,25.0
+132,La Herencia,Juan Gabriel,0.0493,0.349,0.0384,0.424,0.9,0.576,0.0,1.0,202.112,275200.0,37.0
+133,Je Ne Veux Pas La Fin De Nous (I Just Can't Stop Loving You) - French Version,Michael Jackson,0.601,0.65,0.0339,0.508,0.0828,0.222,5.0,1.0,100.149,247933.0,36.0
+134,Subway Theme,Grand Wizard Theodore,0.351,0.829,0.346,0.852,0.324,0.713,2.0,1.0,103.127,173307.0,33.0
+135,God Of Wonders,Maranatha! Instrumental,0.473,0.463,0.0363,0.558,0.106,0.213,8.0,1.0,169.999,267467.0,28.0
+136,Steeds weer huil je,Lucas & Gea,0.0855,0.493,0.0384,0.713,0.0288,0.923,8.0,1.0,173.976,207013.0,26.0
+137,Get Down Tonight,KC & The Sunshine Band,0.0946,0.661,0.0303,0.859,0.471,0.89,10.0,1.0,112.766,191867.0,45.0
+138,"Etudes, Op. 25: No. 3 in F Major",Frédéric Chopin,0.993,0.383,0.0454,0.214,0.133,0.115,0.0,1.0,133.58,118413.0,24.0
+139,"Études, Op. 25: No. 1, Étude in A-Flat Major ""Aeolian Harp""",Frédéric Chopin,0.985,0.154,0.0336,0.0478,0.0822,0.0374,8.0,1.0,84.885,170173.0,22.0
+140,"(Your Love Keeps Lifting Me) Higher and Higher [With Darlene Love, John Fogerty, Sam Moore, Billy Joel And Tom Morello] - A Tribute To Jackie Wilson",Bruce Springsteen,0.291,0.2,0.144,0.899,0.921,0.382,0.0,1.0,182.234,262947.0,17.0
+141,Se Le Ve,Impacto De Montemorelos,0.362,0.746,0.062,0.465,0.0685,0.96,2.0,1.0,126.389,190427.0,41.0
+142,"Piano Quartet No. 1 in G Minor, Op. 25: I. Allegro",Johannes Brahms,0.974,0.307,0.0397,0.0753,0.0888,0.0909,7.0,0.0,118.688,817907.0,15.0
+143,El Baile Del San Juan,LA TROPA ESTRELLA,0.226,0.648,0.0509,0.593,0.138,0.93,9.0,1.0,92.294,235807.0,25.0
+144,Walking On Sunshine (25th Anniversary) - 2010 Remaster,Katrina & The Waves,0.00153,0.62,0.0356,0.934,0.047,0.967,10.0,1.0,110.013,223867.0,46.0
+145,Etude Op. 25 : No. 9 in G-flat Major,Frédéric Chopin,0.993,0.453,0.0433,0.117,0.172,0.751,1.0,1.0,102.684,70107.0,20.0
+146,25 3°N 91 7°E,Chris Christodoulou,0.92,0.532,0.028,0.624,0.0795,0.317,5.0,1.0,89.962,256500.0,31.0
+147,Loco (Tu Forma de Ser) - Vivo en el Palacio de los Deportes,Los Auténticos Decadentes,0.0312,0.42,0.0599,0.836,0.954,0.481,7.0,1.0,116.928,199758.0,47.0
+148,Drive,R.E.M.,0.0978,0.48,0.0278,0.496,0.319,0.288,7.0,1.0,142.621,271373.0,49.0
+149,Oh Me - Live Version,Nirvana,0.716,0.544,0.0809,0.522,0.157,0.243,8.0,1.0,71.404,206133.0,47.0
+150,Never on Sunday,The Chordettes,0.653,0.704,0.0349,0.527,0.0541,0.861,9.0,1.0,124.852,160557.0,41.0
+151,Hairshirt - Remastered,R.E.M.,0.647,0.402,0.035,0.242,0.293,0.302,7.0,1.0,81.594,235907.0,24.0
+152,Here Comes The Sun (with David Crosby and Graham Nash),Paul Simon,0.797,0.401,0.0425,0.456,0.731,0.432,9.0,1.0,113.527,203120.0,22.0
+153,"Myrthen, Op. 25: No. 3. Der Nussbaum",Robert Schumann,0.992,0.322,0.0396,0.0128,0.0899,0.134,7.0,1.0,65.176,212933.0,26.0
+154,"Deal - Live at Lockn' Festival, Arrington, VA, 8/25/2018",Dead & Company,0.348,0.473,0.0762,0.526,0.863,0.593,2.0,1.0,123.735,641693.0,17.0
+155,"Piano Sonata No. 26 in E Flat Major, Op.81a, Les Adieux: II. Andante Espressivo",Ludwig van Beethoven,0.991,0.447,0.0405,0.0102,0.0833,0.0446,7.0,1.0,98.87,218473.0,15.0
+156,Steady Mobbin',Ice Cube,0.0443,0.733,0.229,0.836,0.561,0.72,0.0,1.0,97.89,250040.0,43.0
+157,"12 Etudes, Op.25: No.4 In A Minor",Frédéric Chopin,0.995,0.537,0.0442,0.19,0.0879,0.349,5.0,1.0,92.544,99507.0,13.0
+158,Bis Einer Weint,257ers,0.00572,0.662,0.117,0.907,0.0825,0.343,11.0,0.0,127.983,187573.0,28.0
+159,Near Wild Heaven 1 - Demo,R.E.M.,2.01e-05,0.575,0.0318,0.694,0.378,0.792,2.0,1.0,116.445,244723.0,30.0
+160,Etude Op. 25 : No. 10 in B Minor,Frédéric Chopin,0.994,0.247,0.0453,0.105,0.104,0.0679,11.0,1.0,65.833,275147.0,19.0
+161,Revolution 4-21,R.E.M.,3.36e-05,0.497,0.0597,0.851,0.0898,0.576,9.0,1.0,146.581,202827.0,35.0
+162,Lovers and Friends,Michael Sterling,0.579,0.624,0.0441,0.575,0.0979,0.397,7.0,0.0,138.862,302427.0,33.0
+163,Jurabas Tu,Los del Fuego,0.498,0.752,0.0279,0.702,0.0601,0.853,2.0,1.0,100.017,189153.0,59.0
+164,"St. John Passion, BWV 245, Pt. 2: No. 25a, Allda kreuzigten sie ihn",Johann Sebastian Bach,0.764,0.43,0.0798,0.0736,0.346,0.295,4.0,0.0,91.673,72828.0,6.0
+165,"Because The Night (with Bruce Springsteen, Patti Smith, and Roy Bittan)",U2,0.0154,0.482,0.0602,0.922,0.989,0.381,11.0,0.0,119.915,260333.0,18.0
+166,"12 Études, Op. 25: Étude No. 2 in F Minor",Frédéric Chopin,0.99,0.146,0.0448,0.0428,0.0587,0.228,5.0,0.0,73.896,95000.0,16.0
+167,"All Of You - Take 3 / Live At The Village Vanguard, NYC; 6/25/1961",Bill Evans Trio,0.849,0.519,0.0404,0.26,0.19,0.39,0.0,1.0,96.454,485093.0,24.0
+168,About A Girl - Live Version,Nirvana,0.14,0.61,0.0722,0.763,0.728,0.633,3.0,0.0,121.035,217533.0,53.0
+169,Radio - Acoustic (Radio Song 1) - Demo,R.E.M.,0.5,0.496,0.0261,0.548,0.261,0.569,9.0,1.0,110.987,252944.0,29.0
+170,"Keep Yourself Alive - BBC Session / July 25th 1973, Langham 1 Studio",Queen,0.207,0.48,0.0555,0.706,0.048,0.516,9.0,1.0,136.093,230760.0,26.0
+171,The Fruit Of The Spirit - Galatians 5:22 & 25,Steve Green,0.331,0.935,0.0767,0.541,0.0408,0.919,5.0,1.0,119.975,119000.0,28.0
+172,Hazme Olvidarla,Conjunto Primavera,0.205,0.679,0.0335,0.694,0.0349,0.718,2.0,1.0,102.912,179333.0,29.0
+173,"Piano Sonata No.25 in G, Op.79: 3. Vivace",Ludwig van Beethoven,0.993,0.369,0.036,0.112,0.113,0.556,7.0,1.0,134.219,126000.0,24.0
+174,"12 Études, Op. 25: Étude No. 1 in A-Flat Major",Frédéric Chopin,0.988,0.273,0.0372,0.0514,0.0816,0.0363,8.0,1.0,106.077,135307.0,19.0
+175,Footprints,A Tribe Called Quest,0.0947,0.827,0.257,0.805,0.272,0.685,8.0,0.0,100.06,240640.0,42.0
+176,"12 Études, Op. 25: Étude No. 3 in F Major",Frédéric Chopin,0.992,0.322,0.054,0.104,0.0746,0.467,0.0,1.0,70.647,101160.0,19.0
+177,Bubbles at Overlook 25th March 2019,Four Tet,0.918,0.525,0.0902,0.712,0.172,0.562,10.0,1.0,57.756,63272.0,51.0
+178,Get Up - Remastered,R.E.M.,0.00724,0.537,0.0318,0.776,0.369,0.83,9.0,1.0,118.196,161773.0,30.0
+179,"Mazurkas, Op. 59: No. 1 in A Minor, Moderato",Frédéric Chopin,0.995,0.304,0.0445,0.02,0.0698,0.0397,4.0,1.0,71.356,262573.0,25.0
+180,World Of Weather,Rain Sounds,0.977,0.299,0.0394,0.152,0.114,0.205,0.0,1.0,150.078,142000.0,26.0
+181,Here I Am To Worship - Instrumental,Maranatha! Instrumental,0.864,0.46,0.0264,0.272,0.0817,0.0998,3.0,1.0,139.836,283320.0,25.0
+182,"Hey, Hey What Can I Do - 2019 Remaster",Hootie & The Blowfish,0.329,0.454,0.0477,0.796,0.163,0.533,0.0,1.0,157.342,236080.0,41.0
+183,Stand By Your Man,Tammy Wynette,0.788,0.517,0.0308,0.246,0.133,0.525,9.0,1.0,105.24,159760.0,58.0
+184,Cucaracha,Banda Movil,0.579,0.816,0.0846,0.877,0.0909,0.963,0.0,1.0,137.767,196227.0,37.0
+185,Beat It 2008 (with Fergie) - Thriller 25th Anniversary Remix feat. Fergie,Michael Jackson,0.00597,0.829,0.0576,0.683,0.185,0.633,10.0,0.0,138.013,251187.0,41.0
+186,Sherwood Forest (feat. Cru De Blue) - Original Mix,Bluejean,0.00137,0.754,0.0494,0.687,0.0915,0.754,9.0,0.0,122.997,512067.0,24.0
+187,"Chopin: 12 Etudes, Op. 25: No. 1 in A-Flat Major, ""Aeolian Harp""",Frédéric Chopin,0.986,0.146,0.0429,0.0365,0.102,0.0359,8.0,1.0,66.065,153733.0,43.0
+188,"25 Variations & Fugue on a Theme by Handel, Op. 24: Aria - Variations",Johannes Brahms,0.991,0.305,0.0396,0.0438,0.116,0.265,10.0,1.0,71.232,1350791.0,16.0
+189,Irgendwo in Vegas,257ers,0.121,0.768,0.206,0.699,0.143,0.705,0.0,1.0,135.018,224107.0,47.0
+190,Polly - Rehearsal,Nirvana,0.732,0.611,0.0524,0.261,0.312,0.501,3.0,0.0,117.435,245093.0,43.0
+191,"12 Etudes, Op.25: No.1 In A Flat",Frédéric Chopin,0.993,0.288,0.036,0.00885,0.0751,0.0402,8.0,1.0,67.015,145280.0,18.0
+192,Galway and Mayo,The Saw Doctors,0.269,0.634,0.0437,0.788,0.102,0.824,9.0,1.0,77.295,213693.0,23.0
+193,L'altru pratu,Chjami Aghjalesi,0.689,0.607,0.028,0.318,0.321,0.63,6.0,1.0,96.06,108733.0,2.0
+194,You Gots To Chill,EPMD,0.0699,0.833,0.421,0.753,0.198,0.888,8.0,0.0,99.71,254427.0,25.0
+195,Yankee Fitted Introlude,Marlon Craft,0.174,0.597,0.337,0.826,0.114,0.756,4.0,0.0,81.917,163902.0,19.0
+196,Ni Por Todo El Oro Del Mundo,Los Acosta,0.691,0.625,0.0253,0.621,0.246,0.615,9.0,1.0,101.052,219667.0,27.0
+197,Se fué,Laura Pausini,0.622,0.734,0.0252,0.594,0.094,0.573,2.0,1.0,104.043,280667.0,51.0
+198,Youthful Expression,A Tribe Called Quest,0.0528,0.869,0.215,0.583,0.258,0.483,1.0,1.0,108.716,292627.0,40.0
+199,"Beethoven: Piano Sonata No. 25 in G Major, Op. 79: II. Andante",Ludwig van Beethoven,0.995,0.28,0.0486,0.00914,0.13,0.105,3.0,1.0,81.223,130267.0,17.0
+200,I Wanna Kill Sam,Ice Cube,0.236,0.854,0.308,0.895,0.108,0.588,6.0,0.0,104.656,202427.0,33.0
+201,"12 Etudes, Op. 25: Etude No. 17 in E Minor, Op. 25, No. 5",Frédéric Chopin,0.989,0.238,0.0409,0.102,0.117,0.0602,4.0,1.0,68.738,207693.0,15.0
+202,La Pregunta,Grupo Bryndis,0.473,0.581,0.0356,0.635,0.262,0.52,7.0,1.0,76.603,240920.0,23.0
+203,"12 Etudes, Op.25: No.8 In D Flat",Frédéric Chopin,0.992,0.356,0.0486,0.262,0.0884,0.251,1.0,1.0,110.245,67080.0,15.0
+204,No Tenias Porque,El Mimoso Luis Antonio López,0.266,0.593,0.0402,0.688,0.0361,0.908,10.0,1.0,169.857,176824.0,31.0
+205,"Israel in Egypt, HWV 54 (Excerpts): No. 25, And in the Greatness of Thine",George Frideric Handel,0.995,0.0951,0.0365,0.346,0.373,0.0345,11.0,1.0,171.411,43267.0,8.0
+206,Let Her Cry - 2019 Remaster,Hootie & The Blowfish,0.0634,0.352,0.031,0.691,0.134,0.285,7.0,1.0,142.63,308928.0,29.0
+207,"24 Caprices For Violin, Op.1, MS. 25: No. 24 In A Minor",Niccolò Paganini,0.983,0.377,0.0763,0.1,0.0488,0.458,9.0,0.0,167.313,262000.0,42.0
+208,"12 Etudes, Op. 25: Etude No. 23 in A Minor, Op. 25, No. 11, ""Winter Wind""",Frédéric Chopin,0.957,0.341,0.041,0.233,0.161,0.0993,9.0,0.0,120.561,216547.0,19.0
+209,Paranoid (with Ozzy Osbourne and Ray Davies),Metallica,0.00129,0.437,0.039,0.798,0.97,0.405,7.0,1.0,90.679,169120.0,17.0
+210,"Suite gothique, Op. 25: IV. Toccata",Léon Boëllmann,0.174,0.173,0.0326,0.127,0.12,0.039,5.0,0.0,63.068,226040.0,21.0
+211,Golden Ring - Single Version,Tammy Wynette,0.528,0.458,0.0603,0.514,0.185,0.603,11.0,1.0,166.523,181493.0,48.0
+212,24 Horas Del Dia,Banda La Autentica,0.368,0.697,0.0444,0.439,0.101,0.956,3.0,1.0,136.691,172989.0,50.0
+213,Dumb - Live Version,Nirvana,0.546,0.69,0.0374,0.552,0.854,0.671,6.0,1.0,109.418,173067.0,49.0
+214,"You're My Heart, You're My Soul",Modern Talking,0.139,0.83,0.0464,0.767,0.211,0.788,1.0,0.0,117.48,229987.0,44.0
+215,Vuelve,Intocable,0.233,0.67,0.0501,0.527,0.252,0.837,9.0,1.0,129.998,227987.0,32.0
+216,Buscando Novia,Los Potros,0.546,0.776,0.0471,0.648,0.176,0.883,7.0,1.0,105.076,135960.0,23.0
+217,"Études, Op. 25: No. 11 in A Minor",Frédéric Chopin,0.979,0.204,0.043,0.239,0.107,0.0779,0.0,1.0,166.706,229093.0,33.0
+218,Mr. Muhammad,A Tribe Called Quest,0.135,0.841,0.288,0.795,0.151,0.522,1.0,1.0,103.659,213253.0,37.0
+219,"Help on the Way - Live at Boston Garden, September 25, 1991",Grateful Dead,0.747,0.647,0.0352,0.35,0.471,0.739,0.0,0.0,95.472,255267.0,18.0
+220,Can I Kick It?,A Tribe Called Quest,0.173,0.848,0.274,0.666,0.129,0.744,0.0,1.0,96.662,251573.0,70.0
+221,25 3°N 91 7°E,Chris Christodoulou,0.92,0.532,0.028,0.624,0.0795,0.317,5.0,1.0,89.962,256500.0,31.0
+222,After Hours,A Tribe Called Quest,0.44,0.826,0.262,0.903,0.187,0.646,10.0,0.0,100.02,278853.0,39.0
+223,"Symphony No.38 In D, K.504 ""Prague"": 3. Finale (Presto)",Wolfgang Amadeus Mozart,0.97,0.427,0.0376,0.167,0.264,0.514,2.0,1.0,81.409,520640.0,25.0
+224,"12 Etudes, Op.25: No.8 In D Flat",Frédéric Chopin,0.989,0.331,0.0439,0.301,0.122,0.203,1.0,1.0,113.958,64267.0,23.0
+225,"Symphony No.25 In G Minor, K. 173dB (K.183): Andante",Wolfgang Amadeus Mozart,0.982,0.212,0.0412,0.00983,0.152,0.0671,10.0,1.0,135.837,251547.0,25.0
+226,"Violin Concerto in E-Flat Major, Op. 8, No. 5, RV 253, ""La tempesta di mare"": I. Presto",Antonio Vivaldi,0.914,0.532,0.0406,0.549,0.147,0.668,3.0,1.0,112.705,202902.0,20.0
+227,Marvelous Light,Charlie Hall,0.00272,0.52,0.0485,0.886,0.294,0.526,11.0,1.0,124.02,274347.0,29.0
+228,Enter Sandman,U2,0.00386,0.324,0.061,0.891,0.97,0.453,10.0,0.0,137.843,374120.0,24.0
+229,Callejon de un Solo Caño - Jarana - Trokimoki,Eva Ayllón,0.358,0.637,0.0566,0.75,0.142,0.934,0.0,1.0,189.481,183013.0,34.0
+230,Urban Rain and Passing Traffic,Spa,0.15,0.0907,0.0524,0.473,0.694,1e-05,1.0,1.0,88.93,92814.0,23.0
+231,"Myrthen, Op.25: 1. Widmung (Arr. Clara Schumann)",Robert Schumann,0.994,0.247,0.0466,0.0274,0.0993,0.122,8.0,1.0,67.053,134160.0,1.0
+232,"Mozart: Piano Concerto No. 25 in C Major, K. 503: III. Allegretto",Wolfgang Amadeus Mozart,0.985,0.3,0.0344,0.109,0.0598,0.389,0.0,1.0,88.945,540800.0,30.0
+233,Sweetness Follows,R.E.M.,0.277,0.314,0.0313,0.289,0.102,0.133,7.0,1.0,76.547,261320.0,30.0
+234,"12 Études, Op. 25: Étude No. 12 in C Minor",Frédéric Chopin,0.967,0.287,0.0318,0.159,0.123,0.0638,5.0,0.0,74.098,157267.0,29.0
+235,"String Quartet No.1 In E Flat, Op.12, MWV R 25: 2. Canzonetta: Allegretto",Felix Mendelssohn,0.719,0.501,0.0466,0.0834,0.122,0.698,7.0,1.0,141.719,235107.0,6.0
+236,Jay Dee 25 - Instrumental,J Dilla,0.351,0.742,0.162,0.248,0.113,0.678,1.0,1.0,97.158,94575.0,17.0
+237,"Piano Trio in G Major ""Gypsy"", Hob. XV:25: III. Finale. Rondo all' Ongarese. Presto",Franz Joseph Haydn,0.963,0.436,0.0352,0.21,0.167,0.958,7.0,1.0,150.608,196000.0,21.0
+238,"Symphony No.38 In D, K.504 ""Prague"": 3. Finale (Presto)",Wolfgang Amadeus Mozart,0.97,0.427,0.0376,0.167,0.264,0.514,2.0,1.0,81.409,520640.0,25.0
+239,25 De Diciembre (En Vivo),Ariel Camacho La Tuyia,0.439,0.545,0.0422,0.317,0.0959,0.847,2.0,1.0,113.178,176167.0,25.0
+240,Endlich Ferien 01: Rabbat und Ida - Teil 25,Die Schule der magischen Tiere,0.66,0.722,0.52,0.649,0.269,0.453,7.0,1.0,109.235,91373.0,29.0
+241,A Man Must Do What A Man Do Must,257ers,0.0726,0.831,0.195,0.797,0.0846,0.362,8.0,1.0,100.168,157133.0,31.0
+242,25ème anniversaire,Artcane,0.226,0.353,0.0337,0.404,0.116,0.0498,9.0,0.0,111.333,972347.0,1.0
+243,Forever's as Far as I'll Go,Alabama,0.692,0.401,0.028,0.153,0.0738,0.0792,3.0,1.0,135.057,215240.0,32.0
+244,You Are My Rock - This Means War Album Version,Petra,0.11,0.516,0.0444,0.93,0.225,0.434,4.0,0.0,95.839,260440.0,27.0
+245,Folge 158: Das innerste Licht - Kapitel 25,Gruselkabinett,0.022,0.631,0.467,0.319,0.181,0.0616,7.0,0.0,75.406,80920.0,25.0
+246,I Believe In Jesus,Vineyard Worship,0.182,0.557,0.0242,0.433,0.102,0.287,4.0,1.0,80.266,203013.0,20.0
+247,El Gallito,Tropical Panamá,0.375,0.683,0.139,0.734,0.0892,0.924,2.0,1.0,173.256,175280.0,27.0
+248,Quand'eddi m'accurdarani,Voci di a Gravona,0.819,0.192,0.0386,0.44,0.0997,0.284,10.0,1.0,174.396,195600.0,7.0
+249,25i,Gabrielknowseverything,0.565,0.741,0.366,0.374,0.0987,0.407,1.0,1.0,90.135,152000.0,11.0
+250,"Scherzi musicali, cioè arie, et madrigali in stil recitativo: Zefiro torna, SV 251",Claudio Monteverdi,0.925,0.393,0.0378,0.174,0.101,0.198,7.0,1.0,100.48,419467.0,26.0
+251,"Blue Moon Of Kentucky - Live At KFC Yum! Center, Louisville, KY / May 25, 2017",Eric Church,0.0601,0.269,0.197,0.979,0.769,0.216,9.0,1.0,177.286,190548.0,27.0
+252,Let Those Who Are in Favour with Their Stars (Sonnet 25),Poetaster,0.861,0.709,0.544,0.331,0.127,0.264,10.0,0.0,97.511,72399.0,24.0
+253,Losing Side of 25,American Aquarium,0.031,0.405,0.0376,0.486,0.753,0.47,4.0,1.0,134.548,255249.0,25.0
+254,Sweetness Follows,R.E.M.,0.277,0.314,0.0313,0.289,0.102,0.133,7.0,1.0,76.547,261320.0,30.0
+255,Etude Op. 25 : No. 2 in F Minor,Frédéric Chopin,0.993,0.222,0.0413,0.058,0.11,0.073,5.0,0.0,67.282,111547.0,21.0
+256,In Christ Alone,Maranatha! Instrumental,0.99,0.399,0.0364,0.223,0.105,0.15,5.0,1.0,127.306,264893.0,31.0
+257,Push It Along,A Tribe Called Quest,0.334,0.536,0.301,0.704,0.503,0.615,1.0,1.0,94.65,454280.0,41.0
+258,Pubic Enemy,A Tribe Called Quest,0.0309,0.908,0.216,0.916,0.1,0.783,11.0,1.0,109.047,225787.0,37.0
+259,"12 Etudes, Op.25: No.8 In D Flat",Frédéric Chopin,0.989,0.328,0.047,0.296,0.113,0.138,1.0,1.0,114.014,64267.0,27.0
+260,Olvidemos Nuestro Orgullo,Grupo Bryndis,0.398,0.707,0.0441,0.647,0.0429,0.869,9.0,1.0,162.442,220427.0,24.0
+261,Guilty Party - Live at Berkeley 9/25/18,The National,0.000725,0.305,0.0723,0.678,0.791,0.314,11.0,0.0,138.019,382369.0,26.0
+262,Everlasting God,Maranatha! Instrumental,0.134,0.65,0.0259,0.509,0.198,0.176,11.0,1.0,100.007,258467.0,31.0
+263,"Barcarolle in F-Sharp Major, Op. 60",Frédéric Chopin,0.992,0.36,0.0379,0.0567,0.104,0.0755,6.0,1.0,68.831,537267.0,25.0
+264,Tres Veces Te Engañé,Los Traileros Del Norte,0.246,0.568,0.138,0.717,0.024,0.976,10.0,1.0,204.394,194000.0,36.0
+265,"Forest Sleep and Relaxing Sounds, Pt. 251",Sleepy Times,0.00332,0.26,0.0711,0.675,0.278,0.136,6.0,1.0,133.888,40576.0,20.0
+266,On A Plain - Live Version,Nirvana,0.43,0.704,0.0412,0.788,0.404,0.642,1.0,1.0,117.953,224800.0,48.0
+267,"im friends w 25 letters of the alphabet, i dont know y",Graves,0.0356,0.694,0.341,0.971,0.103,0.526,1.0,1.0,177.99,177978.0,32.0
+268,Crags of Wonsmort,Daniel Emme,0.993,0.332,0.0689,0.0135,0.0671,0.0671,7.0,0.0,66.462,249053.0,14.0
+269,The Second Goodbye,25th Annual Putnam County Spelling Bee Original Cast,0.563,0.274,0.0338,0.338,0.192,0.352,2.0,1.0,168.752,35573.0,26.0
+270,"Piano Sonata No. 25 in G Major, Op. 79 ""Cuckoo"": III. Vivace",Ludwig van Beethoven,0.992,0.463,0.0373,0.0561,0.132,0.478,7.0,1.0,69.101,120512.0,11.0
+271,"Piano Sonata No. 14 in C Sharp Minor, Op. 27 No 2 'moonlight': III. Presto Agitato",Ludwig van Beethoven,0.992,0.321,0.0492,0.178,0.0932,0.113,6.0,0.0,155.938,483012.0,17.0
+272,Hunger Strike - 25th Anniversary Mix,Temple Of The Dog,0.0249,0.384,0.0318,0.733,0.114,0.314,7.0,1.0,137.834,246267.0,62.0
+273,Cuando Tu Cariño,Rigo Tovar,0.294,0.632,0.0284,0.52,0.0733,0.709,5.0,1.0,97.666,166533.0,36.0
+274,Maling Akala,Eraserheads,0.726,0.598,0.0499,0.655,0.606,0.733,7.0,1.0,104.63,254560.0,42.0
+275,El 25 de Durango,Diego Sierra,0.56,0.514,0.0382,0.566,0.0901,0.961,2.0,1.0,88.31,204983.0,20.0
+276,"24 Caprices for Violin, Op.1, MS. 25: No. 14 in E-Flat Major",Niccolò Paganini,0.983,0.662,0.126,0.0879,0.163,0.221,3.0,1.0,54.463,80680.0,23.0
+277,Gentle Rain,Sonidos de la Naturaleza Relax,0.453,0.114,0.0349,0.869,0.948,0.00979,11.0,0.0,92.867,115374.0,20.0
+278,Uptempo Mo Distortion,R.E.M.,0.00705,0.472,0.0352,0.902,0.104,0.848,0.0,1.0,141.328,198920.0,32.0
+279,Rest Your Love On Me,Conway Twitty,0.211,0.47,0.0338,0.381,0.162,0.355,3.0,1.0,141.215,270413.0,18.0
+280,Ay Corazón,Patrulla 81,0.269,0.688,0.0624,0.519,0.0729,0.961,4.0,1.0,72.175,178133.0,20.0
+281,La Chica Que Soñé,Tropical Panamá,0.294,0.718,0.0445,0.537,0.115,0.83,0.0,1.0,176.932,188987.0,32.0
+282,"Breaking All Illusions - Live at the Boston Opera House, Boston, MA, 3/25/2014",Dream Theater,0.000944,0.257,0.107,0.928,0.919,0.329,2.0,0.0,130.009,746787.0,27.0
+283,Zelda 25th Anniversary Overture,Video Games Live,0.918,0.235,0.0364,0.345,0.137,0.0796,7.0,0.0,94.806,334483.0,48.0
+284,El Rezao - En Vivo,Tropical Del Bravo,0.161,0.623,0.0542,0.767,0.624,0.903,0.0,1.0,139.885,162873.0,29.0
+285,You Don't Have To Worry (feat. Fonda Rae) - Original Mix,Bluejean,0.00481,0.839,0.255,0.656,0.0427,0.751,6.0,0.0,118.912,382840.0,24.0
+286,All The Wine - Live at Berkeley 9/24/18,The National,0.00162,0.456,0.0612,0.612,0.714,0.303,7.0,1.0,124.648,330699.0,31.0
+287,I Left My Wallet in El Segundo,A Tribe Called Quest,0.383,0.817,0.238,0.825,0.0866,0.881,7.0,1.0,99.032,246827.0,51.0
+288,A Chill,Alex Cortiz,0.425,0.733,0.0478,0.356,0.0686,0.338,1.0,1.0,89.917,311227.0,27.0
+289,Outside Myself,k.d. lang,0.337,0.549,0.0245,0.328,0.142,0.112,11.0,0.0,95.524,297240.0,30.0
+290,Your Embrace (feat. Koree) - Original Mix,Bluejean,0.00643,0.68,0.112,0.889,0.0659,0.146,11.0,0.0,95.901,282493.0,24.0
+291,25 or 6 to 4 - Live in '75,Chicago,0.0103,0.293,0.0587,0.798,0.688,0.345,9.0,0.0,128.427,451787.0,12.0
+292,Chiquilla Cariñosa,Banda Movil,0.494,0.758,0.0447,0.936,0.194,0.949,9.0,1.0,101.915,155480.0,40.0
+293,Lágrimas Amargas,Impacto De Montemorelos,0.328,0.613,0.0271,0.51,0.149,0.782,10.0,1.0,107.847,151333.0,23.0
+294,"Symphony No.1 in D, Op.25 ""Classical Symphony"": 4. Finale (Vivace)",Sergei Prokofiev,0.877,0.417,0.0487,0.228,0.188,0.707,2.0,1.0,176.498,219440.0,20.0
+295,I Need My Girl - Live at Berkeley 9/25/18,The National,0.0138,0.513,0.0336,0.403,0.649,0.172,0.0,0.0,123.444,252418.0,25.0
+296,On A Clear Day (feat. Cru De Blue) - Original Mix,Bluejean,0.0153,0.498,0.0381,0.654,0.0549,0.141,2.0,1.0,172.045,292333.0,24.0
+297,Your Embrace (feat. Koree) - Original Mix,Bluejean,0.00643,0.68,0.112,0.889,0.0659,0.146,11.0,0.0,95.901,282493.0,24.0
+298,Risin To The Top (feat. Storm) - Original Mix,Bluejean,0.00419,0.676,0.057,0.969,0.296,0.679,3.0,0.0,123.05,223600.0,24.0
+299,Symphony No.29 In A Major K.186a (K. 201): Andante,Wolfgang Amadeus Mozart,0.987,0.225,0.0441,0.015,0.0798,0.125,2.0,1.0,108.339,412680.0,25.0
+300,Go Ahead In the Rain,A Tribe Called Quest,0.00128,0.86,0.12,0.67,0.371,0.887,1.0,0.0,110.747,234040.0,37.0
+301,Ligaya,Eraserheads,0.276,0.536,0.0955,0.742,0.198,0.588,4.0,0.0,125.267,267811.0,43.0
+302,25i,Brando+,0.000254,0.779,0.247,0.815,0.183,0.619,7.0,1.0,139.973,181759.0,14.0
+303,Turn You Inside-Out - Remastered,R.E.M.,0.0129,0.307,0.0415,0.792,0.0757,0.667,9.0,1.0,176.852,257293.0,39.0
+304,Sonniu,Canta U Populu Corsu,0.892,0.245,0.0351,0.411,0.104,0.445,0.0,1.0,137.477,243867.0,7.0
+305,Why We Like Spelling,25th Annual Putnam County Spelling Bee Original Cast,0.824,0.683,0.0494,0.321,0.133,0.469,5.0,1.0,87.639,171307.0,26.0
+306,"Solar - Live At The Village Vanguard, NYC; 6/25/1961",Bill Evans Trio,0.829,0.441,0.0517,0.281,0.68,0.445,5.0,0.0,116.551,534787.0,35.0
+307,Yo Quisiera Detenerte,Siggno,0.0481,0.533,0.0425,0.606,0.0737,0.471,7.0,1.0,183.3,224179.0,33.0
+308,"Swan Lake, Op. 20, Act III No. 25: Act IV By the Lake: No. 25. Entr'acte: Moderato",Pyotr Ilyich Tchaikovsky,0.938,0.333,0.0468,0.0058,0.0952,0.0519,1.0,1.0,110.997,125200.0,27.0
+309,O Praise Him (All This For A King),David Crowder Band,0.00477,0.55,0.0397,0.728,0.0941,0.24,10.0,1.0,115.024,347000.0,27.0
+310,Kirby & The Amazing Mirror / Kirby: Squeak Squad Medley (Live),Tokyo Philharmonic Orchestra,0.828,0.398,0.0509,0.223,0.697,0.319,0.0,1.0,123.773,199405.0,20.0
+311,"Spaseniye sodelal yesi posrede zemli (Salvation is Created), Op. 25, No. 5",Pavel Chesnokov,0.989,0.159,0.0454,0.0181,0.0616,0.035,2.0,1.0,132.842,215053.0,30.0
+312,Llorando Se Fue,Jorge Meza Y Su Tropi Colombia,0.125,0.725,0.0295,0.671,0.301,0.742,10.0,0.0,87.528,255547.0,41.0
+313,Hosanna (Praise Is Rising),Maranatha! Instrumental,0.0374,0.59,0.033,0.538,0.191,0.223,7.0,1.0,114.987,308987.0,29.0
+314,Terrible Love - Live at Berkeley 9/24/18,The National,0.00083,0.226,0.0598,0.591,0.919,0.244,7.0,1.0,116.354,331627.0,28.0
+315,You Are My Rock - This Means War Album Version,Petra,0.11,0.516,0.0444,0.93,0.225,0.434,4.0,0.0,95.839,260440.0,27.0
+316,"Guitar Solo (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.879,0.177,0.126,0.909,0.692,0.0846,11.0,0.0,126.703,191859.0,18.0
+317,Que Locura Enamorarme De Ti,Eddie Santiago,0.752,0.769,0.0423,0.86,0.12,0.94,1.0,1.0,93.301,309573.0,27.0
+318,Hosanna,Maranatha! Instrumental,0.281,0.393,0.0282,0.515,0.11,0.313,1.0,0.0,159.83,312653.0,29.0
+319,Besando La Cruz,Rigo Tovar,0.254,0.288,0.0312,0.345,0.22,0.329,5.0,1.0,80.858,209480.0,27.0
+320,God Of Wonders,Maranatha! Instrumental,0.473,0.463,0.0363,0.558,0.106,0.213,8.0,1.0,169.999,267467.0,28.0
+321,I Wanna Kill Sam,Ice Cube,0.236,0.854,0.308,0.895,0.108,0.588,6.0,0.0,104.656,202427.0,33.0
+322,Tres Por Una,Los Traileros Del Norte,0.342,0.73,0.0422,0.745,0.116,0.934,0.0,1.0,103.143,185933.0,34.0
+323,Decir Adiós,Los Acosta,0.222,0.533,0.0276,0.635,0.323,0.75,2.0,0.0,87.973,226253.0,45.0
+324,Original Nuttah 25 (feat. IRAH) - Chase & Status Remix,Uk Apache,0.0258,0.425,0.0762,0.894,0.0996,0.171,10.0,0.0,115.412,223455.0,58.0
+325,Kirby: Planet Robobot Medley (Live),Tokyo Philharmonic Orchestra,0.939,0.267,0.0497,0.363,0.734,0.155,0.0,1.0,78.8,255366.0,19.0
+326,Modern Chemistry - Single Edit,NAVVI,0.00887,0.744,0.0386,0.508,0.112,0.45,1.0,1.0,118.017,244068.0,8.0
+327,"Johannes-Passion, BWV 245, II. Teil: 25a. Rezitativ (Evangelist) ""Allda kreuzigten sie ihn"" - 25b. Chorus ""Schreibe nicht: der Jüden König"" - 25c. Rezitativ (Evangelist) ""Pilatus antwortet""",Johann Sebastian Bach,0.973,0.433,0.0528,0.109,0.157,0.254,4.0,0.0,80.072,130000.0,14.0
+328,The Reactor / The Hologram,Jerry Goldsmith,0.685,0.26,0.0508,0.0913,0.0828,0.0336,9.0,1.0,143.728,339587.0,31.0
+329,Beat It - Single Version,Michael Jackson,0.0491,0.779,0.0457,0.867,0.197,0.915,3.0,0.0,138.858,258040.0,77.0
+330,"Brown-Eyed Women - Live at Capital Centre, September 25, 1976",Grateful Dead,0.774,0.708,0.0343,0.478,0.741,0.668,4.0,1.0,104.756,295560.0,17.0
+331,"Etudes, Op. 25: No. 10 in B Minor",Frédéric Chopin,0.991,0.278,0.0473,0.189,0.102,0.0424,11.0,1.0,70.575,248760.0,25.0
+332,Fidelio Op.72: Overture,Ludwig van Beethoven,0.97,0.272,0.042,0.232,0.104,0.149,4.0,1.0,126.873,402024.0,22.0
+333,"Études, Op. 25: No. 4 in A Minor",Frédéric Chopin,0.992,0.418,0.0516,0.216,0.1,0.246,9.0,0.0,85.882,103120.0,24.0
+334,"Lazy River Road (Live at Dean Smith Center, University of North Carolina, Chapel Hill, NC 3/25/1993)",Grateful Dead,0.865,0.582,0.0348,0.208,0.0956,0.47,7.0,1.0,78.408,415080.0,35.0
+335,"(Your Love Keeps Lifting Me) Higher and Higher [With Darlene Love, John Fogerty, Sam Moore, Billy Joel And Tom Morello] - A Tribute To Jackie Wilson",Bruce Springsteen,0.291,0.2,0.144,0.899,0.921,0.382,0.0,1.0,182.234,262947.0,17.0
+336,Slaves & Bulldozers,Soundgarden,3.86e-05,0.476,0.0336,0.731,0.305,0.215,0.0,1.0,130.981,416200.0,45.0
+337,El Diablo en una Botella,Banda Roja,0.674,0.746,0.0461,0.514,0.0507,0.974,3.0,1.0,130.081,166005.0,24.0
+338,Gitomino Qireina Anoco (Me He Quedado Solo) - Versión en Japonés,Juan Gabriel,0.657,0.697,0.0439,0.308,0.0889,0.877,9.0,1.0,124.131,178640.0,42.0
+339,Bad Omen - Remastered,Megadeth,0.000238,0.272,0.226,0.961,0.0502,0.139,11.0,1.0,140.976,244507.0,29.0
+340,"Damage, Inc. (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.0716,0.248,0.0976,0.988,0.881,0.177,4.0,0.0,97.749,265269.0,21.0
+341,Tu Eres Mi Respirar,Maranatha! Latin,0.922,0.507,0.0311,0.149,0.122,0.149,10.0,1.0,133.777,268800.0,33.0
+342,Welcome To The Occupation - Remastered,R.E.M.,0.057,0.53,0.0356,0.867,0.239,0.814,4.0,0.0,124.6,168747.0,26.0
+343,Zelda 25th Anniversary Overture,Video Games Live,0.918,0.235,0.0364,0.345,0.137,0.0796,7.0,0.0,94.806,334483.0,48.0
+344,World Of Weather,Rain Sounds,0.977,0.299,0.0394,0.152,0.114,0.205,0.0,1.0,150.078,142000.0,26.0
+345,"Clarinet Sonata No. 1 in F Minor, Op. 120 No. 1: III. Allegretto grazioso",Johannes Brahms,0.993,0.244,0.046,0.0157,0.114,0.17,8.0,1.0,134.467,279015.0,34.0
+346,"Johannes-Passion, BWV 245, II. Teil: 25a. Rezitativ (Evangelist) ""Allda kreuzigten sie ihn"" - 25b. Chorus ""Schreibe nicht: der Jüden König"" - 25c. Rezitativ (Evangelist) ""Pilatus antwortet""",Johann Sebastian Bach,0.973,0.433,0.0528,0.109,0.157,0.254,4.0,0.0,80.072,130000.0,14.0
+347,"18 Études, Op. 109: No. 14, Refrain du gondolier",Franz Burgmüller,0.992,0.442,0.0591,0.0606,0.0927,0.0838,9.0,1.0,84.829,111267.0,33.0
+348,Sorrow - Live at Berkeley 9/25/18,The National,0.000986,0.35,0.0561,0.434,0.619,0.193,9.0,1.0,120.753,317086.0,24.0
+349,Loco (Tu Forma de Ser) - Vivo en el Palacio de los Deportes,Los Auténticos Decadentes,0.0312,0.42,0.0599,0.836,0.954,0.481,7.0,1.0,116.928,199758.0,47.0
+350,The Impending Death of the Virgin Spirit,Will Ackerman,0.934,0.277,0.0333,0.128,0.107,0.055,11.0,1.0,88.623,342427.0,29.0
+351,Moule el Koutche,Khaled,0.452,0.72,0.0413,0.528,0.0615,0.962,0.0,0.0,140.278,234307.0,33.0
+352,A Little Less Talk And A Lot More Action,Toby Keith,0.123,0.739,0.0401,0.869,0.277,0.92,9.0,1.0,125.07,169453.0,30.0
+353,God Of Wonders,Maranatha! Instrumental,0.473,0.463,0.0363,0.558,0.106,0.213,8.0,1.0,169.999,267467.0,28.0
+354,"Study No. 44 in F Minor on trois nouvelle études No. 1, B. 130 (Left Hand Alone)",Leopold Godowsky,0.974,0.148,0.0343,0.0751,0.103,0.124,1.0,1.0,83.595,114011.0,34.0
+355,D-I-V-O-R-C-E,Tammy Wynette,0.676,0.653,0.0354,0.29,0.113,0.617,9.0,1.0,98.687,176573.0,33.0
+356,Who Lives Up There,W.G. Snuffy Walden,0.901,0.454,0.0329,0.186,0.0835,0.115,11.0,0.0,149.628,222600.0,19.0
+357,"The Four Horsemen (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.277,0.244,0.122,0.975,0.623,0.123,0.0,1.0,124.91,320833.0,20.0
+358,Para Qué Olvidar,Valentín Elizalde,0.669,0.573,0.121,0.526,0.0576,0.968,5.0,1.0,200.328,193520.0,20.0
+359,Con Cartitas y Palabras - En Vivo,Dupla Real,0.66,0.627,0.0375,0.614,0.177,0.8,0.0,1.0,109.964,232609.0,11.0
+360,"Divertimento in B-Flat Major, K. 254: 1. Allegro assai",Wolfgang Amadeus Mozart,0.982,0.461,0.0406,0.162,0.103,0.538,10.0,1.0,148.696,547120.0,42.0
+361,My Elusive Dreams,Tammy Wynette,0.798,0.528,0.0274,0.282,0.107,0.374,0.0,1.0,102.744,171160.0,31.0
+362,Fake Empire - Live at Berkeley 9/25/18,The National,0.000453,0.289,0.0418,0.544,0.961,0.16,0.0,1.0,103.803,239148.0,23.0
+363,"12 Etudes, Op.25: No.9 In G Flat ""Butterfly Wings""",Frédéric Chopin,0.989,0.479,0.0423,0.303,0.146,0.893,1.0,1.0,112.57,56960.0,26.0
+364,Ni Con Tequila,Los Rieleros Del Norte,0.33,0.493,0.0304,0.677,0.0954,0.64,0.0,1.0,111.884,203173.0,20.0
+365,Piensa en Mí - En Vivo,Liran' Roll,0.541,0.478,0.0359,0.731,0.975,0.498,7.0,1.0,118.351,304387.0,30.0
+366,"Hey Bo Diddley (with Bo Diddley) - Live at Academy of Music, New York, NY, March 25, 1972",Grateful Dead,0.773,0.768,0.0637,0.671,0.818,0.841,7.0,1.0,104.957,249960.0,14.0
+367,ResuRection - Paul Oakenfold Full On Fluoro Radio Edit,Planet Perfecto Knights,0.000587,0.527,0.04,0.935,0.925,0.0578,4.0,0.0,138.048,236522.0,24.0
+368,"12 Etudes, Op.25: No.8 In D Flat",Frédéric Chopin,0.992,0.356,0.0486,0.262,0.0884,0.251,1.0,1.0,110.245,67080.0,15.0
+369,Etude Op. 25 : No. 6 in G-Sharp Minor,Frédéric Chopin,0.986,0.285,0.0366,0.159,0.109,0.192,8.0,0.0,123.978,153787.0,19.0
+370,Can I Kick It?,A Tribe Called Quest,0.173,0.848,0.274,0.666,0.129,0.744,0.0,1.0,96.662,251573.0,70.0
+371,25 Lighters - Chopped & Screwed,Lil Keke,0.1,0.9,0.188,0.479,0.366,0.451,1.0,0.0,132.61,347533.0,20.0
+372,48 - und das große Vermächtnis - Teil 25,Hanni und Nanni,0.506,0.754,0.533,0.443,0.513,0.59,10.0,0.0,120.204,101133.0,18.0
+373,A Town Where You Can See the Ocean (From 'Kiki's Delivery Service'),Anime Kei,0.989,0.649,0.0309,0.211,0.131,0.489,4.0,0.0,100.941,171265.0,37.0
+374,Blackbirds (Half A World Away) - Demo,R.E.M.,0.11,0.347,0.0337,0.556,0.328,0.512,7.0,1.0,126.334,204743.0,27.0
+375,"Piano Quartet No. 1 in G Minor, Op. 25: I. Allegro",Johannes Brahms,0.974,0.307,0.0397,0.0753,0.0888,0.0909,7.0,0.0,118.688,817907.0,15.0
+376,Description of a Fool,A Tribe Called Quest,0.0482,0.808,0.0832,0.911,0.0367,0.739,11.0,0.0,107.868,341693.0,36.0
+377,End Credits,Alan Silvestri,0.868,0.194,0.0398,0.361,0.134,0.156,5.0,1.0,80.57,241053.0,32.0
+378,"Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise""",Ludwig van Beethoven,0.987,0.289,0.0446,0.0306,0.102,0.118,9.0,0.0,125.608,212067.0,19.0
+379,Psalm 19 (May The Words of My Mouth),Vineyard Worship,0.694,0.368,0.0277,0.188,0.118,0.197,0.0,1.0,96.481,339640.0,23.0
+380,Mike’s Pop Song - Demo,R.E.M.,0.0234,0.578,0.0273,0.869,0.267,0.807,2.0,1.0,146.316,273027.0,38.0
+381,Let Those Who Are in Favour with Their Stars (Sonnet 25),Poetaster,0.861,0.709,0.544,0.331,0.127,0.264,10.0,0.0,97.511,72399.0,24.0
+382,Pero Como Voy A Olvidarte,Los Rancheritos Del Topo Chico,0.458,0.645,0.0341,0.505,0.177,0.704,2.0,1.0,90.862,176387.0,37.0
+383,Dile A Tu Amiga Bonita,Liberación,0.127,0.682,0.0281,0.779,0.155,0.932,0.0,1.0,87.943,171213.0,23.0
+384,"Swan Lake, Op. 20, Act III No. 25: Act IV By the Lake: No. 25. Entr'acte: Moderato",Pyotr Ilyich Tchaikovsky,0.938,0.333,0.0468,0.0058,0.0952,0.0519,1.0,1.0,110.997,125200.0,27.0
+385,P.Y.T. (Pretty Young Thing) 2008 with will.i.am (with will.i.am) - Thriller 25th Anniversary Remix feat. willi.i.am,Michael Jackson,0.0216,0.827,0.0914,0.805,0.195,0.674,1.0,1.0,109.348,261133.0,40.0
+386,Sin Ti No Vivo - Live México D.F/2010,Patrulla 81,0.377,0.798,0.04,0.738,0.201,0.681,4.0,1.0,110.099,189107.0,34.0
+387,"Brokedown Palace - Live at the Lyceum, London, England 5/25/1972",Grateful Dead,0.735,0.537,0.0355,0.287,0.479,0.266,10.0,1.0,104.536,397120.0,17.0
+388,Tocaito,Grupo Mania,0.177,0.91,0.0485,0.839,0.0438,0.967,8.0,1.0,125.021,210027.0,35.0
+389,How Deep Is Your Love [Rumba - 25BPM],Avera,0.698,0.436,0.0456,0.517,0.151,0.352,4.0,0.0,199.768,235781.0,26.0
+390,Red Rain - 2012 Remaster,Peter Gabriel,0.0381,0.557,0.0344,0.74,0.0584,0.379,0.0,1.0,113.451,340493.0,40.0
+391,Enamorada de Estar Aqui,Eva Ayllón,0.568,0.377,0.096,0.905,0.164,0.848,0.0,0.0,88.4,240346.0,35.0
+392,"Walk Softly On This Heart Of Mine - Live At KFC Yum! Center, Louisville, KY / May 25, 2017",Eric Church,0.0846,0.613,0.0549,0.906,0.89,0.703,9.0,1.0,122.082,211573.0,26.0
+393,As The Deer - Instrumental,Maranatha! Instrumental,0.986,0.706,0.0839,0.0447,0.105,0.306,2.0,1.0,123.788,248733.0,26.0
+394,My Favorite Moment of the Bee 3 / Second,25th Annual Putnam County Spelling Bee Original Cast,0.919,0.348,0.0746,0.275,0.0477,0.326,4.0,0.0,168.763,395027.0,26.0
+395,Finest Worksong - Remastered,R.E.M.,0.00107,0.339,0.0441,0.891,0.371,0.572,11.0,1.0,177.19,230120.0,42.0
+396,"Rainbow Bridge - Live At The 4th Annual Telluride Bluegrass And Country Festival, Telluride, CO / June 25-26, 1977",New Grass Revival,0.504,0.434,0.0306,0.561,0.934,0.902,9.0,0.0,129.604,219400.0,23.0
+397,"Master of Puppets (Live at Grugahalle, Essen, West Germany - January 25th, 1987)",Metallica,0.00574,0.298,0.106,0.936,0.746,0.264,4.0,0.0,122.524,285639.0,12.0
+398,Breathe,Maranatha! Praise Band,0.452,0.596,0.0334,0.385,0.13,0.182,2.0,1.0,137.953,289347.0,33.0
+399,"Études, Op. 25: No. 11 in A Minor",Frédéric Chopin,0.979,0.204,0.043,0.239,0.107,0.0779,0.0,1.0,166.706,229093.0,38.0
+400,"24 Caprices For Violin, Op.1, MS. 25: No. 24 In A Minor",Niccolò Paganini,0.983,0.377,0.0763,0.1,0.0488,0.458,9.0,0.0,167.313,262000.0,42.0
+401,I'm That Type Of Nigga,The Pharcyde,0.00647,0.842,0.223,0.861,0.648,0.652,7.0,1.0,104.287,315840.0,28.0
+402,Ayúdame,Intocable,0.716,0.493,0.0416,0.47,0.113,0.467,2.0,1.0,138.247,265120.0,51.0
+403,Endlich Ferien 01: Rabbat und Ida - Teil 25,Die Schule der magischen Tiere,0.66,0.722,0.52,0.649,0.269,0.453,7.0,1.0,109.235,91373.0,29.0
+404,"Ludwig van Beethoven-Serenade in D for Flute, Violin, and Viola, Op.25 - 1.Entrata-Allegro",Beethoven,0.993,0.386,0.0441,0.0298,0.163,0.386,7.0,0.0,120.054,200000.0,17.0
+405,Accept Yourself - David Jensen Session 25/08/83,The Smiths,0.000395,0.525,0.0577,0.848,0.0491,0.766,11.0,0.0,145.08,243480.0,39.0
+406,"Sonata No. 25 in G, Op. 79 I. Presto Alla Tedesca",Lee Wai Chen,0.995,0.407,0.0693,0.0233,0.174,0.104,7.0,1.0,181.098,337346.0,18.0
+407,"Bagatelle No. 25 in A Minor, ""Für Elise"", WoO 59",Ludwig van Beethoven,0.985,0.238,0.0418,0.0491,0.108,0.105,9.0,0.0,132.837,206373.0,31.0
+408,"Piano Sonata No. 25 in G Major, Op. 79: II. Andante",Ludwig van Beethoven,0.995,0.355,0.042,0.00306,0.0639,0.0774,7.0,0.0,69.734,168267.0,25.0
+409,Bad (feat. Pitbull) - Remix By AfroJack Featuring Pitbull-DJ Buddha Edit,Michael Jackson,0.0338,0.779,0.0885,0.909,0.605,0.605,7.0,0.0,127.976,264733.0,40.0
+410,"He Came, He Saw, He Conquered - This Means War Album Version",Petra,0.0212,0.557,0.034,0.829,0.553,0.77,4.0,1.0,131.781,246933.0,29.0
+411,La Fuerza Del Destino,Liberación,0.456,0.702,0.0363,0.754,0.363,0.701,0.0,1.0,83.518,187213.0,26.0
+412,"Piano Concerto No.25 In C, K.503: 3. Allegretto - Live",Wolfgang Amadeus Mozart,0.985,0.372,0.0341,0.108,0.639,0.359,0.0,1.0,85.158,563333.0,29.0
+413,Don't Swallow the Cap - Live at Berkeley 9/24/18,The National,0.0168,0.41,0.0479,0.633,0.587,0.342,5.0,1.0,87.344,332150.0,34.0
+414,Bongo Rock,Incredible Bongo Band,0.00445,0.635,0.0464,0.927,0.36,0.897,6.0,0.0,124.471,159293.0,32.0
+415,"Divertimento No.11 in D, K. 251 ""Nannerl-Septett"": 3. Andantino",Wolfgang Amadeus Mozart,0.973,0.273,0.0446,0.061,0.102,0.116,9.0,1.0,113.156,273612.0,3.0
+416,I Could Sing Of Your Love Forever,Sonicflood,0.104,0.542,0.0268,0.699,0.103,0.683,4.0,1.0,90.99,214333.0,30.0
+417,Time - 2019 Remaster,Hootie & The Blowfish,0.022,0.399,0.0365,0.847,0.125,0.242,2.0,1.0,104.911,294050.0,24.0
+418,"Divertimento in B-Flat Major, K. 254: II. Adagio",Wolfgang Amadeus Mozart,0.977,0.269,0.0513,0.0261,0.0959,0.173,3.0,1.0,124.823,414267.0,15.0
+419,Crags of Wonsmort,Daniel Emme,0.993,0.332,0.0689,0.0135,0.0671,0.0671,7.0,0.0,66.462,249053.0,14.0
+420,Regengeräusche Zum Entspannung - Teil 25,Schlafmusik,0.00325,0.236,0.0467,0.976,0.883,0.00403,1.0,1.0,103.076,87122.0,29.0
+421,"Scarred - Live at the Boston Opera House, Boston, MA, 3/25/2014",Dream Theater,0.00206,0.176,0.15,0.944,0.934,0.246,6.0,0.0,101.106,701000.0,22.0
+422,"Uncle John's Band / U.S. Blues - Live at Intl Amphitheater, Chicago, IL, 7/25/1974",Grateful Dead,0.835,0.545,0.0441,0.313,0.0939,0.645,7.0,1.0,140.971,798227.0,16.0
+423,New York State Of Mind (with Billy Joel),Bruce Springsteen,0.689,0.345,0.0347,0.536,0.961,0.21,7.0,0.0,115.508,412973.0,15.0
+424,My Unfortunate Erection (Chip's Lament),25th Annual Putnam County Spelling Bee Original Cast,0.727,0.653,0.0688,0.461,0.102,0.701,1.0,1.0,77.539,158480.0,32.0
+425,Elevated,SoundOff Beats,0.0877,0.703,0.0326,0.402,0.0753,0.23,9.0,1.0,121.981,288261.0,22.0
+426,"Praeludium et Fuga in E-Dur, BWV 566: Fuga",Johann Sebastian Bach,0.938,0.157,0.033,0.147,0.114,0.138,4.0,1.0,83.798,486413.0,9.0
+427,(Too) Hip to Be Square,Huey Lewis & The News,0.0148,0.476,0.0895,0.871,0.308,0.736,9.0,1.0,147.64,247240.0,30.0
+428,"12 Études, Op. 25: Étude No. 5 in E Minor",Frédéric Chopin,0.991,0.396,0.0346,0.0855,0.123,0.187,4.0,1.0,104.424,173960.0,37.0
+429,Belong - Demo,R.E.M.,0.000993,0.505,0.0244,0.683,0.0772,0.652,7.0,1.0,98.514,255588.0,26.0
+430,Our God,Maranatha! Instrumental,0.335,0.639,0.0244,0.731,0.111,0.603,7.0,1.0,106.005,275520.0,29.0
+431,25 3°N 91 7°E,Chris Christodoulou,0.92,0.532,0.028,0.624,0.0795,0.317,5.0,1.0,89.962,256500.0,31.0
+432,"Divertimento No.11 in D, K.251 ""Nannerl-Septett"": 1. Allegro molto",Wolfgang Amadeus Mozart,0.915,0.555,0.0414,0.235,0.0995,0.62,2.0,1.0,136.316,278000.0,20.0
+433,Changes,Jorrdee,0.687,0.657,0.163,0.572,0.122,0.413,6.0,1.0,138.041,236558.0,3.0
+434,"Études, Op. 25: No. 10 in B Minor",Frédéric Chopin,0.989,0.337,0.0379,0.0984,0.0975,0.0891,11.0,1.0,70.594,249960.0,23.0
+435,"Six Songs, Op. 25: II. A Swan",Edvard Grieg,0.967,0.208,0.0567,0.0349,0.0916,0.0363,5.0,1.0,74.751,146493.0,7.0
+436,"Divertimento in B-Flat Major, K. 254: 1. Allegro assai",Wolfgang Amadeus Mozart,0.982,0.461,0.0406,0.162,0.103,0.538,10.0,1.0,148.696,547120.0,42.0
+437,Mexico (with James Taylor),"Crosby, Stills & Nash",0.238,0.554,0.0732,0.758,0.964,0.364,10.0,1.0,116.044,188533.0,15.0
+438,"Me and My Uncle - Live at Lyceum, London, England 5/25/1972",Grateful Dead,0.751,0.693,0.0566,0.691,0.16,0.844,11.0,0.0,107.052,218173.0,15.0
+439,Here's That Rainy Day,Freddie Hubbard,0.976,0.427,0.0439,0.0464,0.0966,0.169,3.0,1.0,131.613,316400.0,30.0
+440,That Voice Again - 2012 Remaster,Peter Gabriel,0.0276,0.669,0.041,0.714,0.0986,0.494,1.0,1.0,117.987,293586.0,31.0
+441,100 Kilo - Live,Henk Wijngaard,0.691,0.695,0.0592,0.453,0.702,0.581,9.0,1.0,121.237,168863.0,27.0
+442,Amor En Silencio,Los Rehenes,0.238,0.658,0.0368,0.625,0.375,0.827,0.0,1.0,76.722,159173.0,27.0
+443,Almost Cut My Hair,"Crosby, Stills & Nash",0.478,0.466,0.0773,0.715,0.955,0.429,7.0,1.0,125.172,257933.0,22.0
+444,La Culpa Es Sólo Mía,Liberación,0.404,0.645,0.0303,0.573,0.266,0.753,0.0,1.0,113.633,191160.0,23.0
+445,Rhythm (Devoted to the Art of Moving Butts),A Tribe Called Quest,0.13,0.89,0.284,0.686,0.342,0.619,1.0,1.0,104.004,242053.0,38.0
+446,Castle in the Sky Theme (From 'Castle in the Sky'),Anime Kei,0.934,0.173,0.0373,0.151,0.114,0.0626,8.0,1.0,97.362,379124.0,32.0
+447,Un jour comme les autres,Mino,0.237,0.606,0.136,0.797,0.142,0.459,8.0,0.0,94.971,289693.0,8.0
+448,Symphony No.29 In A Major K.186a (K. 201): Menuet & Trio,Wolfgang Amadeus Mozart,0.978,0.397,0.0393,0.0258,0.119,0.325,9.0,1.0,129.948,205813.0,25.0
+449,Walk It Back - Live at Berkeley 9/24/18,The National,0.0153,0.577,0.0363,0.384,0.92,0.173,6.0,0.0,126.721,365738.0,35.0
+450,The Reactor / The Hologram,Jerry Goldsmith,0.685,0.26,0.0508,0.0913,0.0828,0.0336,9.0,1.0,143.728,339587.0,31.0
+451,Road of the Gypsy,Adrenalin,0.0299,0.574,0.0278,0.688,0.425,0.537,0.0,1.0,128.669,272480.0,33.0
+452,"Battery (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.131,0.312,0.0623,0.986,0.611,0.152,0.0,1.0,95.861,231880.0,29.0
+453,Mostrame Como Sos - Versión 25 Años,Los Cafres,0.318,0.689,0.316,0.527,0.254,0.712,1.0,0.0,165.593,264400.0,44.0
+454,"See What A Fool I've Been - BBC Session / July 25th 1973, Langham 1 Studio",Queen,0.0101,0.245,0.0993,0.756,0.777,0.373,4.0,1.0,171.247,259933.0,26.0
+455,Brownian Noise Theta 250-256hz,White Noise Therapy,0.934,0.0871,0.268,0.403,0.133,0.247,1.0,1.0,83.861,214901.0,22.0
+456,The House - Instrumental,John Williams,0.943,0.336,0.0289,0.0498,0.0915,0.101,2.0,0.0,97.306,147173.0,33.0
+457,"12 Etudes, Op.25: No.6 In G Sharp Minor",Frédéric Chopin,0.988,0.265,0.0348,0.203,0.1,0.128,8.0,0.0,143.574,121600.0,23.0
+458,La Chica De Los Siete Vestidos,Banda Movil,0.667,0.808,0.0758,0.839,0.0978,0.966,10.0,1.0,102.331,117480.0,24.0
+459,Aquí Estoy,Jaime Murrell,0.826,0.442,0.0288,0.386,0.684,0.211,9.0,1.0,113.909,335173.0,38.0
+460,The Funeral,Ice Cube,0.037,0.317,0.586,0.464,0.565,0.238,2.0,1.0,171.997,97200.0,33.0
+461,"Etude in C-Sharp Minor, Op. 25/7",Frédéric Chopin,0.993,0.168,0.0457,0.0116,0.13,0.0396,1.0,0.0,67.23,279160.0,30.0
+462,Mighty To Save,Maranatha! Instrumental,0.233,0.411,0.0304,0.624,0.0805,0.337,9.0,1.0,160.027,328747.0,38.0
+463,You Don't Have To Worry (feat. Fonda Rae) - Original Mix,Bluejean,0.00481,0.839,0.255,0.656,0.0427,0.751,6.0,0.0,118.912,382840.0,24.0
+464,"Symphony No. 28 in C Major, K. 200: II. Andante",Wolfgang Amadeus Mozart,0.949,0.0842,0.0445,0.0528,0.119,0.0788,5.0,1.0,61.757,374093.0,23.0
+465,"New Minglewood Blues - Live at Capital Centre, September 25, 1976",Grateful Dead,0.799,0.587,0.0291,0.688,0.332,0.876,11.0,0.0,95.316,288907.0,16.0
+466,"Chopin Etudes, Opus 25 (1836) No. 12",Chopin,0.886,0.504,0.0371,0.316,0.126,0.104,5.0,0.0,120.003,170996.0,26.0
+467,"Forest Sleep and Relaxing Sounds, Pt. 25",Sleepy Times,0.0146,0.268,0.0634,0.737,0.256,0.0854,8.0,1.0,102.058,40586.0,40.0
+468,"Études, Op. 25: No. 2 in F Minor",Frédéric Chopin,0.989,0.278,0.0374,0.0815,0.0799,0.0894,5.0,0.0,60.267,95173.0,27.0
+469,"Savior, Like a Shepherd Lead Us with Chopin's Etude in Ab Major, Op. 25, No. 1",Patricia Spedden,0.95,0.291,0.0337,0.0571,0.141,0.05,7.0,1.0,88.425,204840.0,18.0
+470,Contra El Dragón,Los Acosta,0.116,0.671,0.0268,0.667,0.0697,0.926,1.0,1.0,102.057,227240.0,41.0
+471,"Symphony No.25 In G Minor, K. 183, 1st Movement",Wolfgang Amadeus Mozart,0.975,0.294,0.0462,0.111,0.317,0.285,7.0,0.0,155.352,470800.0,30.0
+472,Star Me Kitten,R.E.M.,0.138,0.17,0.0367,0.467,0.17,0.229,0.0,1.0,64.24,195907.0,27.0
+473,Keys to Imagination - Remastered,Yanni,0.232,0.26,0.0844,0.84,0.734,0.271,9.0,0.0,164.312,451080.0,32.0
+474,La Negra Tomasa - Versión Radio,Caifanes,0.565,0.68,0.0331,0.623,0.215,0.802,9.0,1.0,87.297,202253.0,25.0
+475,Exercise 25 in C,Den Internasjonale Musikkskole,0.821,0.663,0.0926,0.358,0.12,0.0379,7.0,1.0,120.066,45000.0,22.0
+476,Losing Side of 25,American Aquarium,0.031,0.405,0.0376,0.486,0.753,0.47,4.0,1.0,134.548,255249.0,25.0
+477,Freshly Serene Storm,Rain Sounds,0.943,0.164,0.0437,0.0214,0.11,0.0947,0.0,1.0,101.965,101000.0,25.0
+478,A Little Less Talk And A Lot More Action,Toby Keith,0.123,0.739,0.0401,0.869,0.277,0.92,9.0,1.0,125.07,169453.0,30.0
+479,"Yoga or Meditate to Ambient Sounds, Pt. 25",Sleepy Times,0.982,0.179,0.0451,0.0232,0.104,0.0586,0.0,1.0,136.312,40000.0,26.0
+480,"12 Etudes, Op.25: No.4 In A Minor",Frédéric Chopin,0.994,0.418,0.0602,0.121,0.0876,0.902,2.0,0.0,164.321,112173.0,16.0
+481,"Die Originale - Fall 56: Der Daumen des Ingenieurs, Teil 25",Sherlock Holmes,0.792,0.501,0.517,0.488,0.12,0.616,6.0,0.0,86.051,90780.0,20.0
+482,"Whiplash (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.167,0.101,0.123,0.996,0.953,0.0359,0.0,1.0,182.056,284249.0,18.0
+483,"Chopin: 12 Etudes, Op. 25: No. 1 in A-Flat Major, ""Aeolian Harp""",Frédéric Chopin,0.986,0.146,0.0429,0.0365,0.102,0.0359,8.0,1.0,66.065,153733.0,43.0
+484,Boogie Grass Band,Conway Twitty,0.0337,0.555,0.0357,0.748,0.0838,0.846,11.0,1.0,117.149,145333.0,21.0
+485,Greece 2000 - Original Mix,Three Drives On A Vinyl,0.00219,0.771,0.0638,0.627,0.0867,0.587,1.0,0.0,131.987,483718.0,16.0
+486,Song Groove (a.k.a. Abortion Papers),Michael Jackson,0.266,0.922,0.0488,0.922,0.0437,0.963,1.0,1.0,133.208,266773.0,39.0
+487,Bombo y Maracas,Banda Kora,0.812,0.775,0.0383,0.856,0.201,0.962,10.0,1.0,144.347,185293.0,24.0
+488,Etude Op. 25 : No. 7 in C-Sharp Minor,Frédéric Chopin,0.995,0.251,0.0444,0.00484,0.0979,0.0746,4.0,1.0,69.619,341667.0,20.0
+489,"Creeping Death (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.108,0.235,0.143,0.987,0.93,0.115,4.0,0.0,128.81,382278.0,20.0
+490,"Etudes, Op. 25: No. 6 in G-Sharp Minor",Frédéric Chopin,0.979,0.278,0.0377,0.156,0.104,0.217,1.0,0.0,139.504,135013.0,25.0
+491,"Piano Concerto No. 1 in G minor, Op. 25: II. Andante",Felix Mendelssohn,0.991,0.223,0.0373,0.0217,0.0728,0.0386,4.0,1.0,93.019,397800.0,20.0
+492,25 Ghosts III,Nine Inch Nails,0.702,0.38,0.101,0.459,0.232,0.157,11.0,0.0,106.605,118906.0,30.0
+493,How Great Is Our God,Maranatha! Praise Band,0.0476,0.512,0.0295,0.535,0.108,0.08,0.0,1.0,77.96,294427.0,23.0
+494,"Ballad Of John and Yoko (Live from Washington, DC 1/25/2012)",Widespread Panic,0.141,0.452,0.047,0.877,0.966,0.852,7.0,1.0,141.348,252933.0,36.0
+495,Mikey's Vision,Dave Grusin,0.97,0.126,0.036,0.13,0.139,0.0322,4.0,1.0,150.572,112560.0,21.0
+496,"25 Preludes dans tous les tons majeurs et mineurs, Op. 31: No. 8 La chanson de la folle au bord de la mer: Lentement",Charles-Valentin Alkan,0.804,0.306,0.0568,0.00655,0.114,0.0368,8.0,1.0,70.128,282000.0,35.0
+497,"Keyboard Sonata in D Major, Op. 25, No. 6: II. Un poco andante",Muzio Clementi,0.993,0.397,0.0519,0.108,0.102,0.599,2.0,1.0,140.047,148173.0,41.0
+498,"The Creatures of Prometheus, Op. 43 : Adagio - Allegro Con Brio",Ludwig van Beethoven,0.827,0.331,0.0462,0.239,0.121,0.26,0.0,1.0,97.838,165260.0,15.0
+499,"Johannespassion, BWV 245, Pt. 2 No. 25a: Allda kreuzigten sie ihn (Evangelist)",Johann Sebastian Bach,0.872,0.441,0.113,0.106,0.803,0.288,8.0,1.0,78.14,86933.0,14.0
+500,"12 Etudes, Op.25: No.4 In A Minor",Frédéric Chopin,0.995,0.378,0.0435,0.141,0.0833,0.808,2.0,0.0,177.673,100267.0,24.0
+501,Youthful Expression,A Tribe Called Quest,0.0528,0.869,0.215,0.583,0.258,0.483,1.0,1.0,108.716,292627.0,40.0
+502,"12 Etudes, Op.25: No.11 In A Minor",Frédéric Chopin,0.981,0.405,0.0385,0.209,0.11,0.0929,0.0,1.0,61.015,218773.0,19.0
+503,Sexy Sexy Lover - Vocal Version,Modern Talking,0.00741,0.691,0.0347,0.979,0.189,0.94,1.0,0.0,128.666,213493.0,29.0
+504,(Too) Hip to Be Square,Huey Lewis & The News,0.0148,0.476,0.0895,0.871,0.308,0.736,9.0,1.0,147.64,247240.0,30.0
+505,"Rhiannon - Live at Jorgensen Auditorium, University of Connecticut, Storrs, CT, 10/25/75",Fleetwood Mac,0.0988,0.344,0.049,0.798,0.367,0.313,9.0,0.0,137.688,477027.0,20.0
+506,Gitomino Qireina Anoco (Me He Quedado Solo) - Versión en Japonés,Juan Gabriel,0.657,0.697,0.0439,0.308,0.0889,0.877,9.0,1.0,124.131,178640.0,42.0
+507,Chemin des dames,Alte Voce,0.905,0.286,0.0288,0.354,0.241,0.144,2.0,1.0,109.933,266427.0,6.0
+508,We're Strangers Again,Tammy Wynette,0.577,0.517,0.0279,0.182,0.186,0.294,0.0,1.0,84.962,166893.0,25.0
+509,Dominate The Weak,Ice Cube,0.00199,0.746,0.18,0.813,0.676,0.18,1.0,1.0,80.942,246333.0,41.0
+510,Smelly Cat - Version 5,Friends Cast,0.617,0.418,0.265,0.397,0.899,0.536,4.0,1.0,72.848,65027.0,36.0
+511,"Carmen Fantasy, Op.25: 1. Moderato",Pablo de Sarasate,0.829,0.513,0.0822,0.148,0.281,0.562,2.0,1.0,99.423,146800.0,20.0
+512,Where Did You Sleep Last Night - Live Version,Nirvana,0.635,0.456,0.0591,0.573,0.706,0.347,3.0,1.0,108.431,306000.0,50.0
+513,Desert Rose,Sting,0.147,0.614,0.0301,0.669,0.101,0.154,0.0,0.0,111.972,290627.0,20.0
+514,Tnt,Jorrdee,0.364,0.501,0.134,0.833,0.117,0.42,2.0,0.0,129.975,247142.0,10.0
+515,"Suite gothique, Op. 25: IV. Toccata",Léon Boëllmann,0.174,0.173,0.0326,0.127,0.12,0.039,5.0,0.0,63.068,226040.0,21.0
+516,"Die Originale - Fall 13: Der griechische Dolmetscher, Teil 25",Sherlock Holmes,0.431,0.612,0.579,0.595,0.337,0.34,1.0,1.0,113.473,143355.0,23.0
+517,¿Por Qué?,Duelo,0.12,0.658,0.115,0.687,0.0912,0.835,0.0,1.0,154.902,171747.0,27.0
+518,"On the Backs of Angels - Live at the Boston Opera House, Boston, MA, 3/25/2014",Dream Theater,0.000462,0.429,0.159,0.956,0.919,0.207,4.0,0.0,137.999,528320.0,25.0
+519,One Man's Dream - Remastered,Yanni,0.902,0.278,0.0331,0.41,0.771,0.0647,0.0,0.0,119.476,212547.0,31.0
+520,"Forest Sleep and Relaxing Sounds, Pt. 255",Sleepy Times,0.00367,0.312,0.0555,0.766,0.19,0.0644,3.0,0.0,93.411,35851.0,20.0
+521,"Creeping Death (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.108,0.235,0.143,0.987,0.93,0.115,4.0,0.0,128.81,382278.0,20.0
+522,25a,Muskets,0.000156,0.373,0.265,0.908,0.326,0.368,5.0,0.0,179.976,149667.0,3.0
+523,Should've Been A Cowboy,Toby Keith,0.271,0.586,0.0336,0.729,0.231,0.669,7.0,1.0,133.849,209907.0,36.0
+524,Trading My Sorrows - Instrumental,Maranatha! Instrumental,0.438,0.696,0.0313,0.818,0.271,0.391,9.0,1.0,120.031,236320.0,29.0
+525,"Klavierkonzert Nr. 1 g-Moll, Op. 25: II. Andante",Felix Mendelssohn,0.983,0.221,0.0364,0.0116,0.0741,0.0392,4.0,1.0,104.082,379973.0,33.0
+526,"Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise""",Ludwig van Beethoven,0.987,0.289,0.0446,0.0306,0.102,0.118,9.0,0.0,125.61,212067.0,41.0
+527,"Been A Son - Live In Amsterdam At Paradiso, November 25, 1991",Nirvana,0.000241,0.243,0.0751,0.971,0.866,0.309,4.0,0.0,148.184,127307.0,31.0
+528,Losing My Religion 1 - Demo,R.E.M.,0.0769,0.675,0.0406,0.753,0.136,0.955,9.0,0.0,121.715,240159.0,33.0
+529,"Études, Op. 25: No. 9 in G-Flat Major ""Butterfly""",Frédéric Chopin,0.987,0.364,0.0386,0.267,0.125,0.763,1.0,1.0,115.093,58467.0,24.0
+530,Magic Foot,25th Annual Putnam County Spelling Bee Original Cast,0.89,0.53,0.373,0.452,0.169,0.765,2.0,0.0,162.108,155400.0,28.0
+531,"Piano Sonata No.25 In G, Op.79: 2. Andante",Ludwig van Beethoven,0.993,0.408,0.0495,0.00673,0.0701,0.0799,7.0,0.0,100.33,199653.0,16.0
+532,"Welcome Home (Sanitarium) (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.0758,0.245,0.148,0.903,0.87,0.134,0.0,1.0,121.294,426464.0,24.0
+533,Señor Talento (En Vivo),Dupla Real,0.522,0.639,0.0425,0.56,0.194,0.764,9.0,1.0,105.072,208575.0,32.0
+534,Where Did You Sleep Last Night - Live Version,Nirvana,0.635,0.456,0.0591,0.573,0.706,0.347,3.0,1.0,108.431,306000.0,50.0
+535,"im friends w 25 letters of the alphabet, i dont know y",Graves,0.0356,0.694,0.341,0.971,0.103,0.526,1.0,1.0,177.99,177978.0,32.0
+536,Deep Down In My Soul (feat. Storm) - Original Mix,Bluejean,0.0012,0.79,0.0696,0.82,0.157,0.738,9.0,0.0,124.884,401573.0,24.0
+537,Compré Una Cantina,Cardenales De Nuevo León,0.147,0.803,0.0466,0.698,0.0688,0.859,2.0,1.0,98.882,161360.0,26.0
+538,Mercy Street - 2012 Remaster,Peter Gabriel,0.387,0.568,0.0326,0.228,0.0856,0.0492,1.0,0.0,92.729,382547.0,34.0
+539,Afraid of Everyone - Live at Berkeley 9/25/18,The National,0.00149,0.287,0.0608,0.663,0.681,0.172,5.0,1.0,134.212,277510.0,25.0
+540,"Concerto for 2 Organs in C Minor, BWV 1060: I. Allegro",Johann Sebastian Bach,0.967,0.432,0.0302,0.151,0.131,0.376,0.0,0.0,90.096,299147.0,2.0
+541,Lake Of Fire - Live Version,Nirvana,0.293,0.659,0.195,0.625,0.366,0.635,1.0,0.0,72.57,176000.0,49.0
+542,My Favorite Moment of the Bee 3 / Second,25th Annual Putnam County Spelling Bee Original Cast,0.919,0.348,0.0746,0.275,0.0477,0.326,4.0,0.0,168.763,395027.0,26.0
+543,Sólo un Pensamiento - Versión 25 Años,Los Cafres,0.0682,0.675,0.0485,0.575,0.0918,0.82,4.0,0.0,149.634,271293.0,37.0
+544,Etude Op. 25 : No. 1 in A-flat Major,Frédéric Chopin,0.993,0.18,0.0365,0.0126,0.0861,0.0394,8.0,1.0,73.479,180933.0,23.0
+545,El Negro Tiene Tunbao,Zilo Groove,0.00852,0.778,0.0655,0.62,0.168,0.966,5.0,0.0,119.991,210927.0,18.0
+546,Little Child Runnin' Wild,Curtis Mayfield,0.349,0.556,0.0376,0.588,0.116,0.666,6.0,0.0,110.58,326907.0,38.0
+547,25 Lighters - Chopped & Screwed,Lil Keke,0.1,0.9,0.188,0.479,0.366,0.451,1.0,0.0,132.61,347533.0,20.0
+548,Revelation Song,Maranatha! Instrumental,0.638,0.576,0.0273,0.452,0.0931,0.122,5.0,1.0,133.994,373253.0,35.0
+549,More Love More Power,Vineyard Worship,0.581,0.598,0.026,0.427,0.107,0.337,7.0,0.0,140.166,221400.0,22.0
+550,Heartland,Bill Whelan,0.158,0.388,0.0564,0.712,0.057,0.253,7.0,1.0,120.471,212240.0,28.0
+551,"Symphony No.38 In D, K.504 ""Prague"": 1. Adagio - Allegro",Wolfgang Amadeus Mozart,0.972,0.281,0.036,0.124,0.0796,0.221,2.0,1.0,149.082,809227.0,25.0
+552,El Testamento,Rigo Tovar,0.433,0.634,0.0392,0.851,0.0668,0.969,2.0,1.0,97.804,220000.0,38.0
+553,"Surah Al-Baqarah, Ayat 255-257",Ustaz Khairul Anuar Al-Hafiz,0.987,0.405,0.0498,0.197,0.14,0.36,10.0,1.0,126.783,143493.0,39.0
+554,Hilly Town (From 'Whisper of the Heart'),Anime Kei,0.862,0.393,0.0312,0.32,0.153,0.115,0.0,1.0,113.0,253720.0,35.0
+555,Us,Ice Cube,0.486,0.845,0.3,0.786,0.345,0.774,11.0,0.0,104.266,223533.0,32.0
+556,Rock This Party Everybody Dance Now - 144 BPM,Boyz Boyz Boyz,0.058,0.664,0.213,0.95,0.345,0.622,6.0,1.0,143.913,185833.0,32.0
+557,I Need My Girl - Live at Berkeley 9/25/18,The National,0.0138,0.513,0.0336,0.403,0.649,0.172,0.0,0.0,123.444,252418.0,25.0
+558,"Symphony No.25 In G Minor, K. 173dB (K.183) USE KV183/y25: Allegro con brio",Wolfgang Amadeus Mozart,0.972,0.286,0.0356,0.129,0.243,0.29,7.0,0.0,151.287,490400.0,25.0
+559,Ham 'N' Eggs,A Tribe Called Quest,0.546,0.52,0.269,0.892,0.184,0.794,6.0,0.0,92.2,327707.0,38.0
+560,"Mazurkas, Op. 59: No. 1 in A Minor, Moderato",Frédéric Chopin,0.995,0.304,0.0445,0.02,0.0698,0.0397,4.0,1.0,71.356,262573.0,25.0
+561,Se Me Olvidó Olvidarte,Liberación,0.00428,0.642,0.0258,0.644,0.227,0.629,5.0,1.0,107.537,173027.0,38.0
+562,"Études, Op. 25: No. 2 in F Minor",Frédéric Chopin,0.989,0.278,0.0374,0.0815,0.0799,0.0894,5.0,0.0,60.267,95173.0,27.0
+563,Una manera di campà,I Mantini,0.367,0.524,0.0295,0.362,0.0945,0.433,8.0,1.0,132.967,196400.0,1.0
+564,"12 Etudes, Op.25: No.7 In C Sharp Minor",Frédéric Chopin,0.994,0.331,0.0521,0.00696,0.0893,0.0811,1.0,0.0,113.023,357613.0,16.0
+565,Castle in the Sky Theme (From 'Castle in the Sky'),Anime Kei,0.934,0.173,0.0373,0.151,0.114,0.0626,8.0,1.0,97.362,379124.0,32.0
+566,Everybody Hurts,R.E.M.,0.592,0.222,0.0274,0.405,0.126,0.181,2.0,1.0,187.69,320987.0,40.0
+567,"Mr. Charlie - Live at Lyceum, London, England 5/25/1972",Grateful Dead,0.667,0.745,0.028,0.566,0.0885,0.745,4.0,0.0,95.188,247067.0,19.0
+568,"Piano Sonata No. 25 in G Major, Op. 79 ""Cuckoo"": II. Andante",Ludwig van Beethoven,0.994,0.412,0.0567,0.0145,0.118,0.0827,3.0,1.0,138.435,135070.0,12.0
+569,Necesito Decirte,Conjunto Primavera,0.0301,0.629,0.027,0.622,0.111,0.351,10.0,1.0,145.282,230707.0,35.0
+570,I'm in a Hurry (And Don't Know Why),Alabama,0.237,0.748,0.0286,0.72,0.069,0.86,9.0,1.0,128.69,168813.0,64.0
+571,Kirby Air Ride Medley (Live),Tokyo Philharmonic Orchestra,0.842,0.347,0.0506,0.498,0.692,0.305,4.0,0.0,145.392,288699.0,22.0
+572,Intro - En Vivo,Tropical Del Bravo,0.416,0.389,0.299,0.85,0.51,0.316,1.0,1.0,49.368,86596.0,26.0
+573,La Herencia,Juan Gabriel,0.0493,0.349,0.0384,0.424,0.9,0.576,0.0,1.0,202.112,275200.0,37.0
+574,Maling Akala,Eraserheads,0.726,0.598,0.0499,0.655,0.606,0.733,7.0,1.0,104.63,254560.0,42.0
+575,Give Me Your Love (Love Song),Curtis Mayfield,0.128,0.591,0.0887,0.637,0.0989,0.962,5.0,0.0,172.452,260333.0,37.0
+576,"Symphony No. 25 in G Minor, K. 183: I. Allegro con brio",Wolfgang Amadeus Mozart,0.966,0.436,0.0344,0.0938,0.0613,0.293,7.0,0.0,84.205,620613.0,25.0
+577,"Rainbow Bridge - Live At The 4th Annual Telluride Bluegrass And Country Festival, Telluride, CO / June 25-26, 1977",New Grass Revival,0.504,0.434,0.0306,0.561,0.934,0.902,9.0,0.0,129.604,219400.0,23.0
+578,"If I Had the World to Give - Live at Nationwide Arena, Columbus, OH 11/25/17",Dead & Company,0.665,0.496,0.0321,0.189,0.305,0.287,0.0,1.0,122.747,410498.0,14.0
+579,"Main Title ""Somewhere in My Memory"" (From ""Home Alone"") - Voice",John Williams,0.969,0.23,0.0339,0.0719,0.0788,0.0799,2.0,1.0,100.542,293533.0,48.0
+580,Sweet Jane (with Lou Reed),Metallica,0.000891,0.404,0.0745,0.941,0.965,0.642,2.0,1.0,113.297,297293.0,15.0
+581,End Credits,Alan Silvestri,0.868,0.194,0.0398,0.361,0.134,0.156,5.0,1.0,80.57,241053.0,32.0
+582,"To You, O Lord (Psalm 25): Psalm 25, ""To You, O Lord""",Marty Haugen,0.857,0.236,0.033,0.268,0.139,0.188,3.0,1.0,81.473,161760.0,15.0
+583,"The Creatures of Prometheus, Op. 43: Adagio",Ludwig van Beethoven,0.887,0.222,0.0368,0.157,0.18,0.05,0.0,0.0,93.311,245323.0,14.0
+584,Tocaito,Grupo Mania,0.177,0.91,0.0485,0.839,0.0438,0.967,8.0,1.0,125.021,210027.0,35.0
+585,Day I Die - Live at Berkeley 9/24/18,The National,0.0256,0.327,0.149,0.718,0.886,0.27,2.0,1.0,146.997,332225.0,29.0
+586,Let Those Who Are in Favour with Their Stars (Sonnet 25),Poetaster,0.861,0.709,0.544,0.331,0.127,0.264,10.0,0.0,97.511,72399.0,24.0
+587,Los Reproches Del Viento,Patrulla 81,0.0597,0.711,0.0455,0.508,0.0847,0.897,0.0,1.0,140.01,208747.0,32.0
+588,Games Without Frontiers - Live,Peter Gabriel,0.00157,0.464,0.055,0.946,0.991,0.403,9.0,0.0,93.583,329252.0,23.0
+589,"Ballad Of John and Yoko (Live from Washington, DC 1/25/2012)",Widespread Panic,0.141,0.452,0.047,0.877,0.966,0.852,7.0,1.0,141.348,252933.0,36.0
+590,Chemin des dames,Alte Voce,0.905,0.286,0.0288,0.354,0.241,0.144,2.0,1.0,109.933,266427.0,6.0
+591,"12 Études, Op. 25: Étude No. 12 in C Minor",Frédéric Chopin,0.967,0.287,0.0318,0.159,0.123,0.0638,5.0,0.0,74.098,157267.0,29.0
+592,"Ay Amor, Cuando Hablan las Miradas",Guayacán Orquesta,0.0505,0.685,0.0413,0.48,0.0776,0.867,1.0,1.0,175.745,259579.0,36.0
+593,Loco Por Ti,Los Bukis,0.704,0.728,0.0242,0.76,0.047,0.968,2.0,1.0,104.757,234320.0,18.0
+594,"Symphony No. 7 in a Major, Op. 92: IV. Allegro Con Brio",Ludwig van Beethoven,0.913,0.269,0.0364,0.324,0.118,0.325,9.0,1.0,155.832,402990.0,18.0
+595,Secreto de Amor,Guitarras Mágicas,0.826,0.842,0.0734,0.488,0.0942,0.786,11.0,0.0,116.067,233000.0,39.0
+596,Symphony No.29 In A Major K.186a (K. 201): Allegro con spirito,Wolfgang Amadeus Mozart,0.973,0.346,0.0385,0.113,0.135,0.413,9.0,1.0,97.221,306987.0,25.0
+597,Two Story House,Tammy Wynette,0.646,0.578,0.0318,0.556,0.217,0.716,1.0,1.0,82.611,160173.0,29.0
+598,"Études, Op. 25: No. 4 in A Minor",Frédéric Chopin,0.992,0.418,0.0516,0.216,0.1,0.246,9.0,0.0,85.882,103120.0,24.0
+599,Forever,Maranatha! Instrumental,0.285,0.592,0.0265,0.713,0.104,0.464,7.0,1.0,122.024,298040.0,28.0
+600,Aus dem Weg,257ers,0.0426,0.892,0.235,0.771,0.0659,0.718,6.0,0.0,104.975,210000.0,30.0
+601,Song Of Hope (Heaven Come Down),Robbie Seay Band,0.00017,0.519,0.0332,0.731,0.11,0.302,11.0,1.0,117.024,327253.0,28.0
+602,I Want a New Drug / Small World,Huey Lewis & The News,0.0985,0.565,0.0336,0.725,0.4,0.57,9.0,1.0,113.198,520813.0,31.0
+603,"Clarinet Sonata No. 1 in F Minor, Op. 120 No. 1: II. Andante un poco adagio",Johannes Brahms,0.99,0.111,0.0457,0.00267,0.079,0.0636,8.0,1.0,75.406,300738.0,13.0
+604,Desert Rose,Sting,0.147,0.614,0.0301,0.669,0.101,0.154,0.0,0.0,111.972,290627.0,20.0
+605,Description of a Fool,A Tribe Called Quest,0.0482,0.808,0.0832,0.911,0.0367,0.739,11.0,0.0,107.868,341693.0,36.0
+606,Amor Sincero,Rigo Tovar,0.321,0.675,0.0307,0.596,0.269,0.934,7.0,1.0,89.947,223627.0,45.0
+607,Mom Returns and Finale - Instrumental,John Williams,0.97,0.1,0.0398,0.0381,0.0615,0.0746,7.0,1.0,80.437,259613.0,31.0
+608,Homeless (Demo),Paul Simon,0.929,0.32,0.0371,0.144,0.117,0.341,7.0,0.0,124.651,150733.0,45.0
+609,Healing The Mind With Hydration,Rain Sounds,0.956,0.245,0.0455,0.224,0.134,0.16,0.0,1.0,111.562,144000.0,26.0
+610,"12 Études, Op. 25: Étude No. 11 in A Minor",Frédéric Chopin,0.967,0.328,0.0357,0.203,0.11,0.104,9.0,0.0,91.76,211907.0,37.0
+611,Iron Man (with Ozzy Osbourne),Metallica,0.000362,0.364,0.033,0.789,0.501,0.363,7.0,1.0,83.789,186480.0,16.0
+612,"Piano Trio No. 1 In G Major, Hob.XV:25 - ""Gypsy"": 1. Andante",Franz Joseph Haydn,0.975,0.34,0.0407,0.0642,0.144,0.567,7.0,1.0,146.581,343347.0,41.0
+613,"Piano Concerto No. 25 in C Major, K. 503: II. Andante",Wolfgang Amadeus Mozart,0.989,0.219,0.0398,0.058,0.075,0.0697,5.0,1.0,82.015,501640.0,2.0
+614,My Unfortunate Erection (Chip's Lament),25th Annual Putnam County Spelling Bee Original Cast,0.727,0.653,0.0688,0.461,0.102,0.701,1.0,1.0,77.539,158480.0,32.0
+615,Hasta La Cima Del Cielo,Solido,0.123,0.536,0.0528,0.486,0.231,0.818,0.0,0.0,181.169,228773.0,29.0
+616,El Perro De Mi Compadre,Banda Movil,0.571,0.783,0.0673,0.856,0.128,0.971,7.0,1.0,150.892,119987.0,24.0
+617,Forever,Maranatha! Instrumental,0.285,0.592,0.0265,0.713,0.104,0.464,7.0,1.0,122.024,298040.0,28.0
+618,Raglan Road,The Dubliners,0.971,0.381,0.0393,0.098,0.0916,0.36,2.0,1.0,103.186,259413.0,27.0
+619,"Piano Concerto No.25 In C, K.503: 3. Allegretto - Live",Wolfgang Amadeus Mozart,0.985,0.372,0.0341,0.108,0.639,0.359,0.0,1.0,85.158,563333.0,29.0
+620,Sweet Mother,Zilo Groove,0.344,0.696,0.181,0.853,0.193,0.595,7.0,1.0,109.99,250364.0,29.0
+621,I'm in a Hurry (And Don't Know Why),Alabama,0.237,0.748,0.0286,0.72,0.069,0.86,9.0,1.0,128.69,168813.0,64.0
+622,"Violin Concerto in E-Flat Major, Op. 8, No. 5, RV 253, ""La tempesta di mare"": I. Presto",Antonio Vivaldi,0.914,0.532,0.0406,0.549,0.147,0.668,3.0,1.0,112.705,202902.0,20.0
+623,La mer,Laura Fygi,0.811,0.813,0.0389,0.192,0.11,0.601,7.0,0.0,123.933,199907.0,41.0
+624,In 100 Years,Modern Talking,0.0292,0.676,0.0322,0.859,0.131,0.611,0.0,0.0,118.043,237813.0,22.0
+625,Stand By Your Man,Tammy Wynette,0.788,0.517,0.0308,0.246,0.133,0.525,9.0,1.0,105.24,159760.0,58.0
+626,La 25ème image (feat. Nuttea) - Remix,Iam,0.0252,0.784,0.0632,0.584,0.298,0.212,10.0,0.0,93.077,331267.0,13.0
+627,Holy Is The Lord,Maranatha! Instrumental,0.213,0.406,0.0348,0.616,0.151,0.437,9.0,1.0,173.994,300680.0,29.0
+628,Man's Best Friend,Ice Cube,0.131,0.791,0.286,0.868,0.73,0.735,0.0,1.0,92.187,126000.0,32.0
+629,Verdades Que Duelen,Los Rehenes,0.295,0.757,0.042,0.694,0.207,0.912,0.0,1.0,82.928,152547.0,25.0
+630,My Favorite Moment of the Bee 3 / Second,25th Annual Putnam County Spelling Bee Original Cast,0.919,0.348,0.0746,0.275,0.0477,0.326,4.0,0.0,168.763,395027.0,26.0
+631,Footprints,A Tribe Called Quest,0.0947,0.827,0.257,0.805,0.272,0.685,8.0,0.0,100.06,240640.0,42.0
+632,As for Us,Fernando Ortega,0.99,0.424,0.0442,0.17,0.117,0.206,2.0,1.0,135.555,230533.0,16.0
+633,Aviso del Cielo,Los Remis,0.559,0.634,0.111,0.574,0.196,0.929,4.0,1.0,170.017,149333.0,25.0
+634,"Chopin Etudes, Opus 25 (1836) No. 12",Chopin,0.886,0.504,0.0371,0.316,0.126,0.104,5.0,0.0,120.003,170996.0,26.0
+635,Ramblin' On My Mind - SA.2583-1,Robert Johnson,0.958,0.69,0.0714,0.204,0.144,0.737,0.0,1.0,113.226,142320.0,26.0
+636,Get Down Tonight,KC & The Sunshine Band,0.0946,0.661,0.0303,0.859,0.471,0.89,10.0,1.0,112.766,191867.0,45.0
+637,Masacre En Guadalajara,Banda Movil,0.604,0.756,0.0545,0.596,0.153,0.972,5.0,1.0,128.05,169867.0,19.0
+638,Day I Die - Live at Berkeley 9/24/18,The National,0.0256,0.327,0.149,0.718,0.886,0.27,2.0,1.0,146.997,332225.0,29.0
+639,"Ludwig van Beethoven-Serenade in D for Flute, Violin, and Viola, Op.25 - 2.Tempo ordinario di un minuetto",Beethoven,0.99,0.252,0.0486,0.0377,0.0635,0.255,2.0,1.0,116.998,265111.0,17.0
+640,Paranoid (with Ozzy Osbourne and Ray Davies),Metallica,0.00129,0.437,0.039,0.798,0.97,0.405,7.0,1.0,90.679,169120.0,17.0
+641,In the Year 2525 (Exordium & Terminus),Zager & Evans,0.145,0.451,0.0361,0.62,0.0677,0.5,8.0,0.0,123.487,199653.0,51.0
+642,Follow That Kid! - Instrumental,John Williams,0.895,0.256,0.0406,0.0857,0.153,0.0489,8.0,1.0,58.525,122987.0,26.0
+643,Crags of Wonsmort,Daniel Emme,0.993,0.332,0.0689,0.0135,0.0671,0.0671,7.0,0.0,66.462,249053.0,14.0
+644,Open The Eyes Of My Heart,Maranatha! Instrumental,0.374,0.605,0.0269,0.554,0.218,0.122,4.0,1.0,110.988,251267.0,33.0
+645,Lollipop,The Chordettes,0.558,0.64,0.145,0.599,0.438,0.825,8.0,1.0,143.206,130478.0,56.0
+646,Come On In My Kitchen - SA.2585-1,Robert Johnson,0.933,0.596,0.111,0.0263,0.171,0.238,0.0,1.0,82.474,172267.0,21.0
+647,Hello Darlin',Conway Twitty,0.959,0.409,0.0289,0.264,0.133,0.38,0.0,1.0,83.032,147079.0,22.0
+648,Windmills of Your Mind,Alison Moyet,0.84,0.372,0.037,0.199,0.132,0.247,10.0,0.0,79.689,230027.0,38.0
+649,"Smokestack Lightnin' - Live at Academy of Music, New York, NY, March 25, 1972",Grateful Dead,0.272,0.517,0.0375,0.52,0.698,0.599,11.0,0.0,115.088,791600.0,16.0
+650,Your Embrace (feat. Koree) - Original Mix,Bluejean,0.00643,0.68,0.112,0.889,0.0659,0.146,11.0,0.0,95.901,282493.0,24.0
+651,Fake Empire - Live at Berkeley 9/25/18,The National,0.000453,0.289,0.0418,0.544,0.961,0.16,0.0,1.0,103.803,239148.0,23.0
+652,Una Canción De Dolor Para Ti,Rigo Tovar,0.0164,0.705,0.0309,0.65,0.0743,0.95,5.0,1.0,91.007,177533.0,32.0
+653,De Nuevo A Tu Lado,Conjunto Primavera,0.28,0.689,0.0467,0.907,0.0767,0.868,5.0,1.0,122.538,168840.0,42.0
+654,"Ultimate A Cappella Mashup: 25 Hits, 25 Years",BYU Vocal Point,0.148,0.4,0.076,0.452,0.129,0.534,0.0,1.0,150.036,223174.0,51.0
+655,Nightswimming,R.E.M.,0.8,0.556,0.0294,0.435,0.107,0.593,7.0,1.0,114.261,258107.0,40.0
+656,Golden Ring - Single Version,Tammy Wynette,0.528,0.458,0.0603,0.514,0.185,0.603,11.0,1.0,166.523,181493.0,48.0
+657,Loco,Pesado,0.121,0.77,0.0304,0.666,0.0778,0.964,4.0,0.0,136.056,235947.0,51.0
+658,Freshly Serene Storm,Rain Sounds,0.943,0.164,0.0437,0.0214,0.11,0.0947,0.0,1.0,101.965,101000.0,25.0
+659,The Ghost Of Tom Joad (with Tom Morello),Bruce Springsteen,0.169,0.221,0.0808,0.906,0.971,0.249,4.0,0.0,169.802,482493.0,31.0
+660,"Change My Heart, Oh God - Instrumental",Maranatha! Instrumental,0.98,0.61,0.0864,0.0249,0.095,0.437,0.0,1.0,127.6,230080.0,25.0
+661,25ème Caprice,Michel Ripoche,0.136,0.418,0.0649,0.295,0.131,0.485,9.0,1.0,155.223,189680.0,1.0
+662,Tiene Apenas 16,Los Acosta,0.264,0.639,0.0285,0.666,0.338,0.683,2.0,1.0,82.059,230560.0,50.0
+663,Mi Cantar,Los Angeles Azules,0.272,0.476,0.048,0.561,0.178,0.538,9.0,0.0,84.839,236027.0,25.0
+664,Rosas Blancas,Los Yonic's,0.506,0.447,0.218,0.618,0.234,0.434,0.0,1.0,78.017,233853.0,27.0
+665,Exhuming McCarthy - Remastered,R.E.M.,0.0401,0.689,0.0416,0.826,0.233,0.967,1.0,1.0,122.693,201547.0,38.0
+666,Modern Chemistry - Single Edit,NAVVI,0.00887,0.744,0.0386,0.508,0.112,0.45,1.0,1.0,118.017,244068.0,8.0
+667,"Divertimento in B-Flat Major, K. 254: 1. Allegro assai",Wolfgang Amadeus Mozart,0.982,0.461,0.0406,0.162,0.103,0.538,10.0,1.0,148.696,547120.0,36.0
+668,Ami Volt Az Majd Lesz! - A 25. Telekom Volt Fesztivál Himnusza,Punnany Massif,0.187,0.588,0.237,0.892,0.122,0.582,5.0,0.0,150.986,241589.0,42.0
+669,ASMR Fall Asleep in 25 Minutes Part 3,Tingting ASMR,0.000261,0.198,0.108,0.00855,0.0937,0.0756,10.0,0.0,80.045,302335.0,17.0
+670,Mejor Dímelo,Siggno,0.323,0.712,0.0551,0.721,0.0945,0.722,2.0,1.0,80.044,222360.0,41.0
+671,My Unfortunate Erection (Chip's Lament),25th Annual Putnam County Spelling Bee Original Cast,0.727,0.653,0.0688,0.461,0.102,0.701,1.0,1.0,77.539,158480.0,32.0
+672,"Clarinet Sonata No. 1 in F Minor, Op. 120 No. 1: IV. Vivace",Johannes Brahms,0.992,0.377,0.0411,0.041,0.0801,0.116,5.0,1.0,128.508,311612.0,12.0
+673,Almost Cut My Hair,"Crosby, Stills & Nash",0.478,0.466,0.0773,0.715,0.955,0.429,7.0,1.0,125.172,257933.0,22.0
+674,"Die Originale - Fall 56: Der Daumen des Ingenieurs, Teil 25",Sherlock Holmes,0.792,0.501,0.517,0.488,0.12,0.616,6.0,0.0,86.051,90780.0,20.0
+675,Hazme Olvidarla,Conjunto Primavera,0.205,0.679,0.0335,0.694,0.0349,0.718,2.0,1.0,102.912,179333.0,29.0
+676,25 & Wastin' Time,Vincent Neil Emerson,0.41,0.526,0.0496,0.674,0.19,0.819,7.0,1.0,190.918,177413.0,38.0
+677,Ay Amor,Los Angeles Azules,0.383,0.714,0.0528,0.473,0.104,0.91,2.0,1.0,86.553,171320.0,24.0
+678,"Shakedown Street - Live at New Haven Coliseum, New Haven, October 25, 1979",Grateful Dead,0.767,0.694,0.0708,0.701,0.385,0.674,0.0,1.0,107.772,932293.0,22.0
+679,I'm Not That Smart,25th Annual Putnam County Spelling Bee Original Cast,0.647,0.664,0.467,0.369,0.419,0.378,9.0,1.0,117.185,159840.0,31.0
+680,"Symphony No. 2 in C Minor, Op. 17, TH.25 ""Little Russian"": 3. Scherzo: Allegro molto vivace - Trio: L'istesso tempo",Pyotr Ilyich Tchaikovsky,0.929,0.471,0.0469,0.104,0.0723,0.343,3.0,1.0,113.906,341505.0,19.0
+681,Polly - Rehearsal,Nirvana,0.732,0.611,0.0524,0.261,0.312,0.501,3.0,0.0,117.435,245093.0,43.0
+682,Dile A Tu Amiga Bonita,Liberación,0.127,0.682,0.0281,0.779,0.155,0.932,0.0,1.0,87.943,171213.0,23.0
+683,"12 Études, Op. 25: Étude No. 5 in E Minor",Frédéric Chopin,0.991,0.396,0.0346,0.0855,0.123,0.187,4.0,1.0,104.424,173960.0,37.0
+684,Sonniu,Canta U Populu Corsu,0.892,0.245,0.0351,0.411,0.104,0.445,0.0,1.0,137.477,243867.0,7.0
+685,Thunderstorm and Ocean Waves - Part 25,Thunderstorm Global Project from TraxLab,0.085,0.0,0.0,0.315,0.212,0.0,4.0,1.0,0.0,78331.0,22.0
+686,"Crickets Sleep and Relaxing Sounds, Pt. 25",Sleepy Times,0.57,0.245,0.0492,0.0415,0.0894,0.0665,4.0,0.0,94.505,43253.0,27.0
+687,"I'm a Man (with Bo Diddley) - Live at Academy of Music, New York, NY, March 25, 1972",Grateful Dead,0.545,0.714,0.156,0.466,0.187,0.433,0.0,1.0,72.736,359933.0,14.0
+688,"Jesus, Etc.",Norah Jones,0.916,0.673,0.0327,0.224,0.868,0.572,9.0,1.0,114.724,223133.0,39.0
+689,"Piano Trio in G, H. XV No.25 - ""Gipsy"": 1. Andante",Franz Joseph Haydn,0.98,0.339,0.0425,0.104,0.201,0.411,7.0,1.0,120.919,421387.0,6.0
+690,Felitsa (Bonus Track) - Remastered,Yanni,0.831,0.118,0.0332,0.397,0.703,0.0647,2.0,0.0,80.407,303120.0,32.0
+691,Desde los Chiqueros / al Filo (Directo),SFDK,0.226,0.453,0.282,0.846,0.783,0.703,4.0,0.0,85.409,323500.0,36.0
+692,Señor Talento - En Vivo,Dupla Real,0.522,0.636,0.0424,0.56,0.194,0.763,9.0,1.0,105.051,208575.0,14.0
+693,"12 Etudes, Op.25: No.2 In F Minor",Frédéric Chopin,0.992,0.259,0.0352,0.11,0.0939,0.191,5.0,0.0,71.139,86973.0,26.0
+694,"12 Etudes, Op.25: No.1 In A Flat ""Harp Study""",Frédéric Chopin,0.992,0.259,0.0337,0.0566,0.0944,0.0392,8.0,1.0,103.157,132560.0,32.0
+695,Cielo,Valentín Elizalde,0.678,0.623,0.122,0.459,0.0413,0.963,5.0,1.0,170.173,177533.0,22.0
+696,Callejon de un Solo Caño - Jarana - Trokimoki,Eva Ayllón,0.358,0.637,0.0566,0.75,0.142,0.934,0.0,1.0,189.481,183013.0,34.0
+697,Sueña,Intocable,0.311,0.38,0.119,0.651,0.092,0.353,2.0,1.0,173.384,255080.0,42.0
+698,El Toro Moro,Banda Movil,0.518,0.741,0.0865,0.927,0.213,0.961,7.0,1.0,141.562,115587.0,28.0
+699,No Tenias Porque,El Mimoso Luis Antonio López,0.266,0.593,0.0402,0.688,0.0361,0.908,10.0,1.0,169.857,176824.0,31.0
+700,ESDZDA,257ers,0.0542,0.857,0.269,0.613,0.174,0.598,10.0,0.0,91.024,198987.0,29.0
+701,Ni Tu Amigo Ni Tu Amante,Los Traileros Del Norte,0.137,0.536,0.0819,0.574,0.0541,0.975,5.0,1.0,207.115,161880.0,24.0
+702,Dumb - Live Version,Nirvana,0.546,0.69,0.0374,0.552,0.854,0.671,6.0,1.0,109.418,173067.0,49.0
+703,"Gloria's Step - Take 3 / Live At The Village Vanguard, NYC; 6/25/1961",Bill Evans Trio,0.854,0.446,0.0414,0.238,0.668,0.365,5.0,1.0,77.869,417320.0,29.0
+704,Se Le Ve,Impacto De Montemorelos,0.362,0.746,0.062,0.465,0.0685,0.96,2.0,1.0,126.389,190427.0,41.0
+705,Good Cop Bad Cop,Ice Cube,0.138,0.713,0.247,0.935,0.161,0.872,6.0,1.0,91.995,207093.0,54.0
+706,"Piano Sonata No.25 In G, Op.79: 2. Andante",Ludwig van Beethoven,0.993,0.408,0.0495,0.00673,0.0701,0.0799,7.0,0.0,100.33,199653.0,16.0
+707,Under The Fall,Toby Keith,0.136,0.729,0.0306,0.768,0.0717,0.802,7.0,1.0,133.103,202134.0,25.0
+708,Raglan Road,The Dubliners,0.971,0.381,0.0393,0.098,0.0916,0.36,2.0,1.0,103.186,259413.0,27.0
+709,Oh Shit,The Pharcyde,0.0771,0.784,0.223,0.828,0.346,0.629,2.0,1.0,103.54,262027.0,30.0
+710,Glass Sanctuary,Daniel Emme,0.98,0.24,0.0414,0.179,0.177,0.0628,1.0,1.0,94.905,121678.0,14.0
+711,"Pica, pica petita mà",Toni Giménez,0.958,0.698,0.302,0.195,0.126,0.385,2.0,1.0,102.393,56027.0,1.0
+712,The Lady in My Life,Michael Jackson,0.318,0.65,0.0407,0.503,0.058,0.521,9.0,0.0,73.073,298800.0,49.0
+713,"Etudes, Op. 25, No. 1 in A-Flat Major ""Aeolian Harp""",Frédéric Chopin,0.99,0.374,0.0331,0.333,0.202,0.263,8.0,1.0,90.036,97710.0,17.0
+714,Oh Shit,The Pharcyde,0.0771,0.784,0.223,0.828,0.346,0.629,2.0,1.0,103.54,262027.0,30.0
+715,Get Up - Remastered,R.E.M.,0.00724,0.537,0.0318,0.776,0.369,0.83,9.0,1.0,118.196,161773.0,30.0
+716,All Around the World or the Myth of Fingerprints (with Los Lobos),Paul Simon,0.248,0.595,0.0803,0.673,0.0425,0.879,0.0,1.0,178.853,197533.0,47.0
+717,Symphony No.29 In A Major K.186a (K. 201): Menuet & Trio,Wolfgang Amadeus Mozart,0.978,0.397,0.0393,0.0258,0.119,0.325,9.0,1.0,129.948,205813.0,25.0
+718,Lejos De Mi Tierra,Patrulla 81,0.322,0.603,0.0424,0.474,0.316,0.961,9.0,1.0,139.887,197813.0,29.0
+719,Imposible - Versión 25 Años,Los Cafres,0.0614,0.729,0.0751,0.612,0.15,0.844,8.0,1.0,87.965,316387.0,44.0
+720,Keys to Imagination - Remastered,Yanni,0.232,0.26,0.0844,0.84,0.734,0.271,9.0,0.0,164.312,451080.0,32.0
+721,Celosa,Siggno,0.122,0.763,0.0452,0.697,0.247,0.897,0.0,1.0,85.996,216347.0,24.0
+722,All Night Thing - 25th Anniversary Mix,Temple Of The Dog,0.291,0.59,0.0292,0.629,0.107,0.285,9.0,1.0,126.91,231840.0,29.0
+723,Bridge Over Troubled Water,Simon & Garfunkel,0.809,0.334,0.0322,0.313,0.982,0.246,2.0,1.0,83.257,316987.0,15.0
+724,"Violin Concerto in E-Flat Major, Op. 8, No. 5, RV 253, ""La tempesta di mare"": I. Presto",Antonio Vivaldi,0.914,0.532,0.0406,0.549,0.147,0.668,3.0,1.0,112.705,202902.0,20.0
+725,In the Distance,Mindfulness Meditation Music Spa Maestro,0.903,0.187,0.0428,0.0113,0.114,0.128,0.0,1.0,140.329,144000.0,17.0
+726,El Privilegio De Quererte,La Septima Banda,0.461,0.689,0.0363,0.696,0.134,0.855,3.0,1.0,141.945,193947.0,30.0
+727,Sledgehammer - Live,Peter Gabriel,0.022,0.488,0.0733,0.907,0.975,0.52,3.0,0.0,99.673,306787.0,21.0
+728,"Symphony No. 1 in D Major, Op. 25: I. Allegro",Sergei Prokofiev,0.942,0.496,0.0381,0.167,0.27,0.463,7.0,1.0,102.452,247107.0,17.0
+729,"Études, Op. 25: No. 1 in A-Flat Major",Frédéric Chopin,0.99,0.278,0.0388,0.0269,0.0705,0.0343,8.0,1.0,70.018,174267.0,15.0
+730,"Violin Concerto in E-Flat Major, Op. 8, No. 5, RV 253, ""La tempesta di mare"": I. Presto",Antonio Vivaldi,0.914,0.532,0.0406,0.549,0.147,0.668,3.0,1.0,112.705,202902.0,20.0
+731,Shiny Happy People 1 - Demo,R.E.M.,0.00503,0.523,0.0329,0.782,0.433,0.716,11.0,0.0,119.385,193713.0,30.0
+732,"Avslappningsövning och stresshantering, del 25",Stressmottagningen,0.948,0.464,0.239,0.0819,0.147,0.224,0.0,1.0,87.794,38360.0,22.0
+733,I Ain't Superstitious - Remastered,Megadeth,0.00609,0.246,0.158,0.942,0.114,0.325,10.0,0.0,107.897,165880.0,27.0
+734,This Is the Last Time - Live at Berkeley 9/25/18,The National,0.00134,0.33,0.0436,0.593,0.984,0.361,5.0,0.0,74.931,294031.0,25.0
+735,We Deal In Dreams,Live,0.0162,0.498,0.0459,0.843,0.0864,0.535,0.0,0.0,85.696,235760.0,31.0
+736,No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes,Los Auténticos Decadentes,0.348,0.628,0.03,0.762,0.774,0.809,9.0,1.0,90.012,234986.0,64.0
+737,"18 Études, Op. 109: No. 14, Refrain du gondolier",Franz Burgmüller,0.992,0.442,0.0591,0.0606,0.0927,0.0838,9.0,1.0,84.829,111267.0,33.0
+738,Ambi 25,Corey Gordon,0.955,0.116,0.0485,0.0134,0.301,0.0644,1.0,0.0,82.255,224493.0,61.0
+739,Lamentu di Nicoli,Jacky Micaelli,0.762,0.251,0.0363,0.311,0.106,0.15,10.0,0.0,137.876,150307.0,1.0
+740,Slow Sad Rocker (Endgame) - Demo,R.E.M.,0.385,0.768,0.0506,0.462,0.115,0.844,9.0,1.0,89.229,269875.0,26.0
+741,El Último Trago,El Coyote Y Su Banda Tierra Santa,0.517,0.657,0.0378,0.652,0.0762,0.954,7.0,1.0,96.942,121760.0,20.0
+742,Pink Noise 250 Hertz - One Hour (Loopable with No Fade),Best Noise,0.951,0.0,0.0,2.03e-05,0.112,0.0,1.0,1.0,0.0,3600000.0,18.0
+743,"Poeme, Op. 25",Ernest Chausson,0.854,0.162,0.0478,0.264,0.238,0.0658,3.0,1.0,59.745,789240.0,28.0
+744,Your Embrace (feat. Koree) - Original Mix,Bluejean,0.00643,0.68,0.112,0.889,0.0659,0.146,11.0,0.0,95.901,282493.0,24.0
+745,"Tchaikovsky: The Sleeping Beauty, Op. 66, Act II ""The Vision"", Scene 2: No. 25c, Pas de quatre. Variation II ""The Blue Bird and Princess Florine""",Pyotr Ilyich Tchaikovsky,0.977,0.506,0.0521,0.0641,0.147,0.748,9.0,0.0,141.165,46893.0,14.0
+746,Angels Among Us,Alabama,0.936,0.559,0.029,0.304,0.139,0.34,8.0,1.0,137.724,247533.0,51.0
+747,You Don't Have To Worry (feat. Fonda Rae) - Original Mix,Bluejean,0.00481,0.839,0.255,0.656,0.0427,0.751,6.0,0.0,118.912,382840.0,24.0
+748,You Gots To Chill,EPMD,0.0699,0.833,0.421,0.753,0.198,0.888,8.0,0.0,99.71,254427.0,25.0
+749,"Etudes, Op. 25: No. 12 in C Minor 'Ocean' (Molto allego con fuoco)",Frédéric Chopin,0.991,0.237,0.0339,0.179,0.111,0.0621,5.0,0.0,73.376,154133.0,28.0
+750,Susquehanna,Live,0.00962,0.402,0.0303,0.689,0.308,0.295,1.0,1.0,77.874,295267.0,30.0
+751,"9 Mazurkas, Op. 25: No. 3 in E Minor",Alexander Scriabin,0.996,0.388,0.0532,0.00452,0.0728,0.111,4.0,0.0,135.82,137328.0,29.0
+752,"Symphony No. 25 in G Minor, K. 183: II. Andante",Wolfgang Amadeus Mozart,0.977,0.0989,0.0449,0.0179,0.208,0.0396,10.0,1.0,75.642,357773.0,29.0
+753,E - Endures; I Peter 1:25,Dana Dirksen,0.925,0.533,0.039,0.162,0.0906,0.963,0.0,1.0,166.24,53720.0,14.0
+754,Kirby Air Ride Medley (Live),Tokyo Philharmonic Orchestra,0.842,0.347,0.0506,0.498,0.692,0.305,4.0,0.0,145.392,288699.0,22.0
+755,"Loser - Live at Capital Centre, September 25, 1976",Grateful Dead,0.799,0.601,0.0304,0.299,0.733,0.426,7.0,1.0,99.776,497893.0,19.0
+756,"12 Etudes, Op.25: No.7 In C Sharp Minor",Frédéric Chopin,0.995,0.264,0.0428,0.0603,0.0915,0.0446,1.0,0.0,68.708,291000.0,26.0
+757,"12 Etudes, Op.25: No. 11 in A minor ""Winter Wind""",Frédéric Chopin,0.984,0.254,0.041,0.192,0.101,0.0992,9.0,0.0,165.188,206000.0,20.0
+758,"12 Etudes, Op.25: No.1 In A-Flat Major - ""Harp Study""",Frédéric Chopin,0.993,0.332,0.0327,0.0396,0.0906,0.0371,8.0,1.0,92.889,155053.0,21.0
+759,16 Toneladas,Noriel Vilela,0.809,0.616,0.0599,0.52,0.082,0.938,6.0,1.0,82.697,131907.0,16.0
+760,Te Odio Porque Te Amo,El Mimoso Luis Antonio López,0.121,0.706,0.0316,0.689,0.0796,0.96,0.0,1.0,139.906,217500.0,31.0
+761,On A Clear Day (feat. Cru De Blue) - Original Mix,Bluejean,0.0153,0.498,0.0381,0.654,0.0549,0.141,2.0,1.0,172.045,292333.0,24.0
+762,I Know I'm Not Wrong - 4/25/79,Fleetwood Mac,0.0596,0.601,0.0385,0.556,0.106,0.876,11.0,1.0,151.393,141827.0,17.0
+763,Celebration - Excerpt From Shasta - Sacred Mountain Vol. 1,Suzanne Doucet,0.914,0.296,0.0334,0.258,0.108,0.0392,0.0,1.0,160.012,212013.0,23.0
+764,Woe Is Me,25th Annual Putnam County Spelling Bee Original Cast,0.811,0.539,0.264,0.445,0.0506,0.568,0.0,1.0,173.891,151827.0,30.0
+765,"Sound of Waves Crashing on the Beach, Pt.25",Ambient Sounds from I'm In Records,0.491,0.0711,0.0516,0.742,0.431,1e-05,6.0,1.0,80.612,94366.0,15.0
+766,Drive,R.E.M.,0.0978,0.48,0.0278,0.496,0.319,0.288,7.0,1.0,142.621,271373.0,49.0
+767,Si Estuvieras Conmigo,Liberación,0.275,0.554,0.0327,0.589,0.244,0.815,2.0,1.0,80.982,159213.0,23.0
+768,How Deep The Father's Love For Us,Nichole Nordeman,0.821,0.499,0.0291,0.257,0.117,0.409,2.0,1.0,107.85,228413.0,36.0
+769,I Think It Is Beautiful That You Are 256 Colors Too,Black Moth Super Rainbow,0.146,0.335,0.0789,0.925,0.142,0.442,8.0,0.0,105.232,141280.0,17.0
+770,"Etudes, Op. 10: No. 1 in C Major",Frédéric Chopin,0.986,0.222,0.03,0.293,0.0687,0.0774,0.0,1.0,82.907,122267.0,19.0
+771,How Deep Is Your Love [Rumba - 25BPM],Avera,0.698,0.436,0.0456,0.517,0.151,0.352,4.0,0.0,199.768,235781.0,26.0
+772,"Etude in A Minor, Op. 25 No. 4",Frédéric Chopin,0.992,0.436,0.0576,0.198,0.0839,0.39,9.0,0.0,80.338,118240.0,19.0
+773,Palomita Mensajera,Los Caminantes,0.0981,0.776,0.0287,0.737,0.0578,0.876,5.0,1.0,110.976,213987.0,17.0
+774,Past Voices,Taylor Eigsti,0.975,0.362,0.0424,0.0931,0.0942,0.16,6.0,1.0,72.58,305467.0,18.0
+775,Exercise 25 in C,Den Internasjonale Musikkskole,0.531,0.439,0.104,0.135,0.119,0.0284,0.0,0.0,120.093,48994.0,22.0
+776,"Neil Hagerty Meets Jon Spencer In A Non-Alcoholic Bar (Recorded live at KCRW's Morning Becomes Eclectic program February 25, 1997) - (KCRW February 25,1997)",Pavement,0.0012,0.325,0.0299,0.624,0.119,0.265,11.0,1.0,91.046,156867.0,17.0
+777,The Attack On the House - Instrumental,John Williams,0.947,0.285,0.0486,0.112,0.665,0.0796,7.0,1.0,77.166,413200.0,27.0
+778,Slow Show - Live at Berkeley 9/24/18,The National,0.00165,0.303,0.0413,0.546,0.473,0.282,4.0,1.0,150.565,260145.0,31.0
+779,"Etude in C-Sharp Minor, Op. 25/7",Frédéric Chopin,0.993,0.168,0.0457,0.0116,0.13,0.0396,1.0,0.0,67.23,279160.0,30.0
+780,"12 Etudes, Op.25: No.8 In D Flat",Frédéric Chopin,0.989,0.328,0.047,0.296,0.113,0.138,1.0,1.0,114.014,64267.0,27.0
+781,Life of an Outlaw,The Great Divide,0.124,0.459,0.0324,0.568,0.103,0.286,7.0,1.0,96.754,227154.0,13.0
+782,Obsession (25/7) [feat. Jon Bellion & Kyle],Vice,0.0119,0.762,0.0406,0.531,0.219,0.441,10.0,1.0,102.023,240860.0,39.0
+783,"12 Études, Op. 10: Etude No. 12 in C Minor ""Revolutionary""",Frédéric Chopin,0.977,0.301,0.0319,0.161,0.0977,0.169,0.0,0.0,139.923,152133.0,37.0
+784,"Etudes, Op. 25: No. 7 in C-Sharp Minor",Frédéric Chopin,0.995,0.303,0.0385,0.00762,0.0891,0.0627,1.0,0.0,69.297,330280.0,25.0
+785,Ya No Me Importa,Siggno,0.0742,0.574,0.0913,0.652,0.0949,0.756,2.0,1.0,177.712,235027.0,40.0
+786,"In the Ghetto - Live at The International Hotel, Las Vegas, NV - 8/25/69 Dinner Show",Elvis Presley,0.615,0.419,0.0532,0.477,0.875,0.297,0.0,1.0,97.194,176240.0,33.0
+787,Orange Crush - Remastered,R.E.M.,0.000613,0.568,0.04,0.701,0.17,0.638,9.0,1.0,120.678,231640.0,47.0
+788,Symphony No.29 In A Major K.186a (K. 201): Allegro moderato,Wolfgang Amadeus Mozart,0.957,0.382,0.0499,0.147,0.0848,0.441,9.0,1.0,144.051,488747.0,25.0
+789,I Could Sing Of Your Love Forever,Sonicflood,0.104,0.542,0.0268,0.699,0.103,0.683,4.0,1.0,90.99,214333.0,30.0
+790,Folge 158: Das innerste Licht - Kapitel 25,Gruselkabinett,0.022,0.631,0.467,0.319,0.181,0.0616,7.0,0.0,75.406,80920.0,25.0
+791,Milky Way Wishes: Staff Credits (Live),Tokyo Philharmonic Orchestra,0.865,0.284,0.049,0.406,0.689,0.158,7.0,1.0,125.843,167284.0,19.0
+792,Delta Waves for Deep Sleep (Meditation Music),Sleepify,0.984,0.204,0.0427,0.0775,0.108,0.0348,0.0,0.0,110.267,284544.0,30.0
+793,25 bands and a geccco,100 gecs,0.513,0.735,0.419,0.555,0.162,0.637,4.0,0.0,155.853,124688.0,40.0
+794,Rain and Thunder - Part 25,Ambient Sounds from I'm In Records,0.0387,0.189,0.0879,0.835,0.335,0.022,10.0,0.0,71.542,79598.0,27.0
+795,Downtown (feat. Petula Clark),The Saw Doctors,0.172,0.457,0.0688,0.89,0.12,0.526,11.0,1.0,122.634,182575.0,29.0
+796,El Malo De Esta Historia,El Mimoso Luis Antonio López,0.308,0.704,0.029,0.688,0.0792,0.871,0.0,1.0,135.059,232111.0,37.0
+797,Cuando Vuelvas Tú,Rigo Tovar,0.566,0.58,0.0282,0.399,0.144,0.463,6.0,1.0,98.437,189853.0,27.0
+798,"Israel in Egypt, HWV 54 (Excerpts): No. 25, And in the Greatness of Thine",George Frideric Handel,0.995,0.0951,0.0365,0.346,0.373,0.0345,11.0,1.0,171.411,43267.0,8.0
+799,"Landslide - Live at Jorgensen Auditorium, University of Connecticut, Storrs, CT, 10/25/75",Fleetwood Mac,0.812,0.313,0.0439,0.237,0.335,0.44,2.0,1.0,158.433,234840.0,20.0
+800,"12 Etudes, Op.25: No.9 In G Flat ""Butterfly Wings""",Frédéric Chopin,0.988,0.47,0.0427,0.303,0.146,0.894,1.0,1.0,112.599,56960.0,29.0
+801,"12 Études, Op. 25: Étude No. 11 in A Minor",Frédéric Chopin,0.967,0.328,0.0357,0.203,0.11,0.104,9.0,0.0,91.76,211907.0,37.0
+802,Y Qué Me Importa,Conjunto Primavera,0.172,0.662,0.0314,0.752,0.134,0.604,10.0,1.0,76.679,209027.0,50.0
+803,Dreamy Eyes,Johnny Tillotson,0.824,0.416,0.0334,0.43,0.115,0.556,4.0,1.0,123.876,144093.0,37.0
+804,Se Me Olvidó Olvidarte,Liberación,0.00428,0.642,0.0258,0.644,0.227,0.629,5.0,1.0,107.537,173027.0,38.0
+805,"Hot 'Lanta (Live at Murat Centre, Indianapolis, In, 7/25/2003)",The Allman Brothers Band,0.148,0.349,0.0769,0.851,0.891,0.322,4.0,0.0,112.738,322003.0,13.0
+806,9 Minute Loopable Heavy Rain,Spa,0.403,0.165,0.0807,0.731,0.552,0.0188,10.0,0.0,114.0,538849.0,20.0
+807,"12 Etudes, Op.25: No.7 In C Sharp Minor",Frédéric Chopin,0.995,0.264,0.0428,0.0603,0.0915,0.0446,1.0,0.0,68.708,291000.0,26.0
+808,Låt mig krita tills 25e,Ricky Lost,0.733,0.55,0.231,0.468,0.116,0.361,4.0,1.0,89.711,182000.0,7.0
+809,Quién Como Tú,Conjunto Primavera,0.187,0.607,0.0244,0.741,0.0653,0.753,0.0,1.0,81.836,232840.0,24.0
+810,"String Quartet No.1 In E Flat, Op.12, MWV R 25: 2. Canzonetta: Allegretto",Felix Mendelssohn,0.719,0.501,0.0466,0.0834,0.122,0.698,7.0,1.0,141.719,235107.0,6.0
+811,Volveré A Amar,Valentín Elizalde,0.362,0.82,0.0315,0.482,0.0836,0.961,3.0,1.0,112.052,233253.0,26.0
+812,Gente - Spanish Version,Laura Pausini,0.607,0.708,0.025,0.603,0.101,0.395,7.0,0.0,108.014,277173.0,38.0
+813,Radio Song,R.E.M.,0.0593,0.606,0.0668,0.945,0.348,0.579,8.0,1.0,113.071,255133.0,48.0
+814,The 25th Annual Putnam County Spelling Bee,25th Annual Putnam County Spelling Bee Original Cast,0.735,0.524,0.0798,0.336,0.367,0.602,0.0,1.0,169.547,284760.0,31.0
+815,Fearless (250 And Dark Stars),Falling Up,0.506,0.567,0.0275,0.459,0.556,0.541,9.0,0.0,99.42,267773.0,33.0
+816,Majesty (Here I Am),Delirious?,0.0015,0.541,0.0283,0.695,0.224,0.35,1.0,1.0,142.138,331667.0,32.0
+817,King Of Birds - Remastered,R.E.M.,0.0761,0.563,0.0268,0.756,0.131,0.532,2.0,1.0,94.681,250280.0,24.0
+818,The One I Love - Live,R.E.M.,0.0134,0.358,0.0534,0.91,0.93,0.161,9.0,1.0,134.205,197945.0,25.0
+819,Come On In My Kitchen - SA.2585-1,Robert Johnson,0.933,0.596,0.111,0.0263,0.171,0.238,0.0,1.0,82.474,172267.0,21.0
+820,The Pretender (with Jackson Browne),"Crosby, Stills & Nash",0.455,0.564,0.0409,0.653,0.907,0.429,6.0,1.0,105.814,355320.0,16.0
+821,Beautiful One,Maranatha! Instrumental,0.16,0.453,0.0345,0.727,0.0877,0.445,2.0,1.0,120.045,321000.0,26.0
+822,No Mayday,Element A.U.,0.259,0.779,0.339,0.722,0.11,0.284,10.0,0.0,160.029,187614.0,23.0
+823,Eres - En Vivo,Tropical Del Bravo,0.0318,0.684,0.0306,0.762,0.836,0.921,10.0,1.0,97.207,158093.0,27.0
+824,Etude Op. 25 : No. 8 in D-flat Major,Frédéric Chopin,0.994,0.21,0.0495,0.227,0.109,0.4,1.0,1.0,170.597,89467.0,19.0
+825,"14 Romances, Op. 34: No. 14 Vocalise - Live",Emil Gilels,0.994,0.403,0.035,0.0414,0.191,0.0981,1.0,0.0,100.858,349294.0,32.0
+826,"St. John Passion, BWV 245, Pt. 2: No. 25a, Allda kreuzigten sie ihn",Johann Sebastian Bach,0.764,0.43,0.0798,0.0736,0.346,0.295,4.0,0.0,91.673,72828.0,6.0
+827,Fly Away,Michael Jackson,0.102,0.763,0.0293,0.564,0.0415,0.525,8.0,1.0,110.906,207080.0,39.0
+828,"Old Before My Time (Live at Murat Centre, Indianapolis, In, 7/25/2003)",The Allman Brothers Band,0.42,0.38,0.0382,0.313,0.926,0.24,4.0,0.0,121.848,334973.0,12.0
+829,Loco Por Ti,Los Bukis,0.704,0.728,0.0242,0.76,0.047,0.968,2.0,1.0,104.757,234320.0,18.0
+830,"Mozart: Piano Concerto No. 25 in C Major, K. 503: I. Allegro maestoso",Wolfgang Amadeus Mozart,0.982,0.345,0.038,0.105,0.0815,0.217,0.0,1.0,135.093,937240.0,30.0
+831,"Wahlstimmen, Op. 250",Johann Strauss II,0.951,0.356,0.0344,0.148,0.0847,0.357,7.0,1.0,89.25,475840.0,8.0
+832,On This Side of Life,Aaron Tippin,0.376,0.682,0.0307,0.694,0.128,0.581,2.0,1.0,120.019,230427.0,27.0
+833,"Symphony No. 2 in C Minor, Op. 17, TH 25 ""Little Russian"": IV. Finale. Moderato assai - Allegro vivo",Pyotr Ilyich Tchaikovsky,0.932,0.288,0.049,0.263,0.272,0.0726,0.0,1.0,78.772,621000.0,16.0
+834,Ayer Me Dijeron Loco,Impacto De Montemorelos,0.291,0.756,0.0482,0.39,0.0208,0.963,2.0,1.0,96.23,167227.0,25.0
+835,Prayer of the Comfort Counselor,25th Annual Putnam County Spelling Bee Original Cast,0.771,0.488,0.0446,0.387,0.544,0.528,9.0,0.0,103.898,140280.0,28.0
+836,New Orleans Instrumental No. 1,R.E.M.,0.969,0.266,0.0462,0.116,0.0973,0.114,0.0,1.0,69.602,135640.0,29.0
+837,"Études, Op. 25: No. 11 in A Minor ""Winter Wind""",Frédéric Chopin,0.964,0.3,0.0355,0.261,0.0901,0.0971,9.0,0.0,65.879,208107.0,26.0
+838,Mr. Muhammad,A Tribe Called Quest,0.135,0.841,0.288,0.795,0.151,0.522,1.0,1.0,103.659,213253.0,37.0
+839,"Piano Trio in G Major ""Gypsy"", Hob. XV:25: III. Finale. Rondo all' Ongarese. Presto",Franz Joseph Haydn,0.963,0.436,0.0352,0.21,0.167,0.958,7.0,1.0,150.608,196000.0,21.0
+840,Kirby Super Star Medley (Live),Tokyo Philharmonic Orchestra,0.81,0.294,0.042,0.463,0.975,0.16,0.0,0.0,145.137,374262.0,29.0
+841,"Symphony No.7 in a Major, Op. 92: II. Allegretto",Ludwig van Beethoven,0.969,0.259,0.0442,0.0486,0.105,0.0582,4.0,0.0,120.67,564024.0,19.0
+842,"Old Before My Time (Live at Murat Centre, Indianapolis, In, 7/25/2003)",The Allman Brothers Band,0.42,0.38,0.0382,0.313,0.926,0.24,4.0,0.0,121.848,334973.0,12.0
+843,"12 Etudes, Op.25: No.12 In C Minor",Frédéric Chopin,0.992,0.271,0.0317,0.253,0.189,0.053,5.0,0.0,75.106,151400.0,26.0
+844,Si Me Pagaran Por Amarte,La Septima Banda,0.266,0.687,0.0277,0.732,0.0921,0.924,10.0,1.0,140.17,148507.0,32.0
+845,Symphony No.29 In A Major K.186a (K. 201): Menuet & Trio,Wolfgang Amadeus Mozart,0.978,0.397,0.0393,0.0258,0.119,0.325,9.0,1.0,129.948,205813.0,25.0
+846,En Esta Vida No Se Pudo,El Mimoso Luis Antonio López,0.473,0.615,0.0415,0.386,0.109,0.591,5.0,1.0,134.552,266000.0,59.0
+847,Honky Tonk Song,Faron Young,0.757,0.715,0.0469,0.527,0.29,0.904,5.0,1.0,120.275,136020.0,15.0
+848,"Serenade in D Major, Op. 25: II. Menuetto",Aralee Dorough,0.99,0.409,0.0436,0.117,0.0788,0.686,2.0,1.0,103.228,325400.0,20.0
+849,Celosa,Siggno,0.122,0.763,0.0452,0.697,0.247,0.897,0.0,1.0,85.996,216347.0,24.0
+850,All Flesh is Like The Grass (I Peter 1:24-25),Fernando Ortega,0.975,0.325,0.0379,0.0776,0.111,0.183,0.0,1.0,77.184,203400.0,29.0
+851,Love Has No Pride (with Bonnie Raitt),"Crosby, Stills & Nash",0.753,0.388,0.0324,0.158,0.895,0.244,9.0,1.0,98.292,308320.0,22.0
+852,"Piano Sonata No. 14 in C Sharp Minor, Op. 27 No 2 'moonlight': III. Presto Agitato",Ludwig van Beethoven,0.992,0.321,0.0492,0.178,0.0932,0.113,6.0,0.0,155.938,483012.0,17.0
+853,Setting the Trap - Instrumental,John Williams,0.663,0.531,0.0301,0.462,0.182,0.572,10.0,1.0,101.007,136493.0,34.0
+854,Vení Raquel - Vivo en el Palacio de los Deportes,Los Auténticos Decadentes,0.457,0.377,0.0843,0.942,0.964,0.806,9.0,0.0,149.122,186598.0,44.0
+855,"Serenade in D Major, K. 250 Haffner Adagio",Music Box Orchestra,0.921,0.381,0.0426,0.0345,0.0684,0.12,2.0,1.0,133.281,185432.0,26.0
+856,Y Me Quedé En El Bar,Los Acosta,0.196,0.734,0.0273,0.751,0.0972,0.805,4.0,0.0,98.054,170813.0,33.0
+857,25 Lighters (feat. DJ DMD & Lil’ Keke),Fat Pat,0.0705,0.883,0.221,0.554,0.359,0.488,1.0,1.0,138.763,362907.0,24.0
+858,Someone in the Dark,Michael Jackson,0.748,0.231,0.031,0.273,0.145,0.118,0.0,1.0,101.984,288427.0,39.0
+859,"Messiah (HWV 56): Pt. 2, no. 25. And with His Stripes We Are Healed",George Frideric Handel,0.989,0.157,0.0334,0.248,0.106,0.336,5.0,0.0,88.623,126547.0,13.0
+860,"9 Mazurkas, Op. 25: No. 3 in E Minor",Alexander Scriabin,0.996,0.388,0.0532,0.00452,0.0728,0.111,4.0,0.0,135.82,137328.0,29.0
+861,I Want My 25 Minutes Of Fame,Casino Madrid,0.000118,0.286,0.293,0.991,0.249,0.235,5.0,1.0,135.961,155200.0,11.0
+862,I Don't Wanna Play House - Single Version,Tammy Wynette,0.762,0.574,0.0319,0.258,0.15,0.405,2.0,1.0,100.994,155227.0,39.0
+863,"12 Etudes, Op.25: No.12 In C Minor",Frédéric Chopin,0.983,0.202,0.0326,0.146,0.115,0.0389,0.0,0.0,74.534,171587.0,18.0
+864,"12 Etudes, Op.25: No.1 In A Flat ""Harp Study""",Frédéric Chopin,0.992,0.265,0.0336,0.0561,0.0946,0.0387,8.0,1.0,103.452,132560.0,29.0
+865,"Alice In Wonderland - Take 2 / Live At The Village Vanguard, NYC; 6/25/1961",Bill Evans Trio,0.852,0.434,0.0347,0.297,0.711,0.364,0.0,1.0,82.867,514533.0,39.0
+866,Sólo Contigo,Duelo,0.0625,0.69,0.0299,0.534,0.289,0.68,8.0,1.0,144.539,183520.0,31.0
+867,"Symphony No.25 In G Minor, K. 173dB (K.183): Menuetto & Trio",Wolfgang Amadeus Mozart,0.989,0.46,0.0493,0.0113,0.298,0.243,7.0,1.0,122.661,229613.0,25.0
+868,The System Only Dreams in Total Darkness - Live at Berkeley 9/25/18,The National,0.00224,0.478,0.155,0.654,0.618,0.348,10.0,0.0,114.049,288009.0,26.0
+869,Here I Am To Worship,Maranatha! Instrumental,0.0497,0.514,0.0288,0.54,0.113,0.0929,4.0,1.0,140.027,294773.0,32.0
+870,"12 Etudes, Op.25: No.9 In G Flat ""Butterfly Wings""",Frédéric Chopin,0.989,0.479,0.0423,0.303,0.146,0.893,1.0,1.0,112.57,56960.0,26.0
+871,Platicando Con Tu Retrato,Rigo Tovar,0.00525,0.392,0.0276,0.545,0.375,0.744,9.0,1.0,106.342,185480.0,24.0
+872,"(Anesthesia) - Pulling Teeth (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.893,0.258,0.0692,0.674,0.526,0.291,2.0,1.0,124.085,177253.0,22.0
+873,"Clarinet Sonata No. 1 in F Minor, Op. 120 No. 1: II. Andante un poco adagio",Johannes Brahms,0.99,0.111,0.0457,0.00267,0.079,0.0636,8.0,1.0,75.406,300738.0,13.0
+874,This Is the Last Time - Live at Berkeley 9/25/18,The National,0.00134,0.33,0.0436,0.593,0.984,0.361,5.0,0.0,74.931,294031.0,25.0
+875,"Piano Sonata No. 14 in C Sharp Minor, Op. 27 No 2 'moonlight': II. Allegretto",Ludwig van Beethoven,0.996,0.543,0.0491,0.0105,0.101,0.404,1.0,1.0,97.543,144996.0,19.0
+876,Hold My Hand - 2019 Remaster,Hootie & The Blowfish,0.153,0.22,0.0518,0.771,0.0941,0.477,11.0,1.0,173.137,256029.0,27.0
+877,Disturbance At The Heron House - Remastered,R.E.M.,0.0876,0.572,0.0272,0.859,0.136,0.769,7.0,1.0,131.557,213973.0,26.0
+878,Regresa - Como una Rosa Roja - Propiedad Privada,Eva Ayllón,0.674,0.744,0.0401,0.575,0.08,0.729,5.0,0.0,128.469,307613.0,39.0
+879,Alive On Arrival,Ice Cube,0.0529,0.774,0.242,0.863,0.648,0.44,4.0,0.0,94.994,191080.0,32.0
+880,"Myrthen, Op. 25: I. Dedication",Robert Schumann,0.976,0.217,0.0463,0.109,0.105,0.0738,5.0,1.0,136.235,146200.0,17.0
+881,In Christ Alone,Maranatha! Instrumental,0.99,0.399,0.0364,0.223,0.105,0.15,5.0,1.0,127.306,264893.0,31.0
+882,Obsession (25/7) [feat. Jon Bellion & Kyle],Vice,0.0119,0.762,0.0406,0.531,0.219,0.441,10.0,1.0,102.023,240860.0,39.0
+883,"12 Etudes, Op.25: No.1 In A Flat ""Harp Study""",Frédéric Chopin,0.992,0.265,0.0336,0.0561,0.0946,0.0387,8.0,1.0,103.452,132560.0,29.0
+884,Santorini - Remastered,Yanni,0.385,0.24,0.0417,0.592,0.967,0.0403,0.0,1.0,168.021,417280.0,34.0
+885,"Jack Straw - Live at Lyceum, London, England 5/25/1972",Grateful Dead,0.69,0.423,0.0404,0.588,0.629,0.536,9.0,1.0,74.806,301907.0,18.0
+886,The House - Instrumental,John Williams,0.943,0.336,0.0289,0.0498,0.0915,0.101,2.0,0.0,97.306,147173.0,33.0
+887,Chopin - Etude n.1 op 25,Royal Wedding Orchestra,0.993,0.52,0.112,0.127,0.136,0.299,8.0,1.0,87.481,271151.0,16.0
+888,"It Must Have Been the Roses - Live at Boston Garden, September 25, 1991",Grateful Dead,0.8,0.469,0.0318,0.248,0.269,0.379,9.0,1.0,103.656,345907.0,15.0
+889,Quiero Que Sepas,Dinastia Norteña,0.543,0.856,0.0524,0.853,0.209,0.959,7.0,1.0,113.601,141280.0,14.0
+890,In the Year 2525 (Exordium & Terminus),Zager & Evans,0.145,0.451,0.0361,0.62,0.0677,0.5,8.0,0.0,123.487,199653.0,51.0
+891,"Don't Want You No More (Live at Murat Centre, Indianapolis, In, 7/25/2003)",The Allman Brothers Band,0.472,0.322,0.0793,0.855,0.632,0.537,10.0,1.0,130.396,168569.0,14.0
+892,"Ramblin' Gamblin' Man - Live At The Palace At Auburn Hills, Auburn Hills, MI / February 25, 2017",Eric Church,0.0243,0.581,0.0665,0.964,0.713,0.463,7.0,1.0,121.341,228465.0,24.0
+893,This Old Man,All 4 Kids,0.976,0.85,0.0805,0.071,0.109,0.601,7.0,1.0,94.428,123809.0,40.0
+894,Can I Kick It? - J. Cole Remix,A Tribe Called Quest,0.434,0.903,0.235,0.423,0.0859,0.512,11.0,1.0,96.612,169373.0,49.0
+895,Honky Tonk Song,Faron Young,0.757,0.715,0.0469,0.527,0.29,0.904,5.0,1.0,120.275,136020.0,15.0
+896,"Perpetuum mobile, Op.257",Johann Strauss II,0.942,0.48,0.0574,0.226,0.743,0.688,3.0,1.0,80.965,171467.0,30.0
+897,Better Man,Pearl Jam,0.17,0.394,0.0346,0.553,0.973,0.221,5.0,1.0,124.738,285707.0,34.0
+898,Who Lives Up There,W.G. Snuffy Walden,0.901,0.454,0.0329,0.186,0.0835,0.115,11.0,0.0,149.628,222600.0,19.0
+899,Estuary of Nymphs,Daniel Emme,0.973,0.21,0.0381,0.0337,0.111,0.0376,6.0,1.0,79.151,117200.0,15.0
+900,Sólo Pienso En Ti,Grupo Bryndis,0.251,0.704,0.0271,0.623,0.126,0.374,0.0,1.0,102.061,246653.0,22.0
+901,Texarkana 1 - Demo,R.E.M.,9.21e-05,0.489,0.0299,0.769,0.177,0.913,2.0,1.0,133.328,227388.0,28.0
+902,Pregúntame A Mi,Los Rehenes,0.417,0.65,0.0778,0.55,0.22,0.913,0.0,1.0,163.094,155147.0,29.0
+903,Panty Raid,The Pharcyde,0.316,0.742,0.265,0.783,0.721,0.733,7.0,1.0,97.939,245733.0,23.0
+904,"Mazurkas, Op. 59: No. 1 in A Minor, Moderato",Frédéric Chopin,0.995,0.304,0.0445,0.02,0.0698,0.0397,4.0,1.0,71.356,262573.0,25.0
+905,The System Only Dreams in Total Darkness - Live at Berkeley 9/25/18,The National,0.00224,0.478,0.155,0.654,0.618,0.348,10.0,0.0,114.049,288009.0,26.0
+906,Afro Man,Zilo Groove,0.096,0.637,0.0481,0.573,0.145,0.918,1.0,0.0,89.941,262663.0,24.0
+907,"Solar - Live At The Village Vanguard, NYC; 6/25/1961",Bill Evans Trio,0.829,0.441,0.0517,0.281,0.68,0.445,5.0,0.0,116.551,534787.0,35.0
+908,Gavilán o Paloma,José José,0.259,0.515,0.03,0.383,0.475,0.447,0.0,1.0,125.983,251533.0,31.0
+909,"Bagatelle No. 25 in A minor, ""Für Elise""",Mezza Kids,0.954,0.386,0.0399,0.229,0.112,0.468,9.0,0.0,136.987,165378.0,28.0
+910,Un jour comme les autres,Mino,0.237,0.606,0.136,0.797,0.142,0.459,8.0,0.0,94.971,289693.0,8.0
+911,Casi Q' Me Pierdo - Versión 25 Años [Live],Los Cafres,0.0956,0.608,0.0319,0.731,0.702,0.507,0.0,0.0,84.903,270733.0,38.0
+912,Valentine,Toby Keith,0.262,0.711,0.0392,0.833,0.0845,0.661,2.0,0.0,129.158,213893.0,24.0
+913,Etude Op. 25 : No. 11 in A Minor,Frédéric Chopin,0.989,0.282,0.0375,0.212,0.0916,0.0674,9.0,0.0,101.841,255053.0,22.0
+914,Déjame Amarte,Intocable,0.491,0.603,0.0427,0.606,0.145,0.844,5.0,0.0,135.649,210653.0,42.0
+915,Glass Sanctuary,Daniel Emme,0.98,0.24,0.0414,0.179,0.177,0.0628,1.0,1.0,94.905,121678.0,14.0
+916,I'm Not That Smart,25th Annual Putnam County Spelling Bee Original Cast,0.647,0.664,0.467,0.369,0.419,0.378,9.0,1.0,117.185,159840.0,31.0
+917,"12 Études, Op. 25: Étude No. 3 in F Major",Frédéric Chopin,0.992,0.322,0.054,0.104,0.0746,0.467,0.0,1.0,70.647,101160.0,19.0
+918,Bonita Applebum - Pharrell Williams Remix,A Tribe Called Quest,0.188,0.472,0.0844,0.652,0.151,0.752,10.0,0.0,88.924,233667.0,35.0
+919,Shiny Happy People 2 - Demo,R.E.M.,0.00212,0.591,0.0303,0.742,0.633,0.812,6.0,0.0,121.048,235333.0,28.0
+920,"Johannespassion, BWV 245, Pt. 2 No. 25a: Allda kreuzigten sie ihn (Evangelist)",Johann Sebastian Bach,0.872,0.441,0.113,0.106,0.803,0.288,8.0,1.0,78.14,86933.0,14.0
+921,King Dedede & Meta Knight Medley (Live),Tokyo Philharmonic Orchestra,0.871,0.364,0.0393,0.461,0.684,0.255,9.0,0.0,115.997,231377.0,30.0
+922,Officer,The Pharcyde,0.0778,0.849,0.238,0.837,0.717,0.736,10.0,0.0,102.343,240240.0,21.0
+923,Mejor Dímelo,Siggno,0.323,0.712,0.0551,0.721,0.0945,0.722,2.0,1.0,80.044,222360.0,41.0
+924,You Are The Everything - Remastered,R.E.M.,0.0869,0.301,0.033,0.347,0.218,0.681,7.0,1.0,153.408,224667.0,30.0
+925,La mer,Laura Fygi,0.811,0.813,0.0389,0.192,0.11,0.601,7.0,0.0,123.933,199907.0,41.0
+926,"Etudes, Op. 25: No. 11 in A Minor",Frédéric Chopin,0.979,0.339,0.0387,0.233,0.101,0.0665,9.0,0.0,115.421,220307.0,24.0
+927,Quise,Duelo,0.336,0.517,0.0809,0.66,0.241,0.739,0.0,0.0,175.171,184040.0,25.0
+928,"I've Seen Them All (with Bo Diddley) - Live at Academy of Music, New York, NY, March 25, 1972",Grateful Dead,0.813,0.789,0.068,0.235,0.149,0.624,7.0,1.0,115.735,463467.0,15.0
+929,Fratelli Chase,Dave Grusin,0.394,0.735,0.0603,0.441,0.117,0.483,2.0,0.0,79.978,167627.0,31.0
+930,"25 or 6 to 4 - Live in Chicago, IL, 1999",Chicago,0.00216,0.372,0.108,0.952,0.985,0.263,7.0,1.0,143.037,353400.0,15.0
+931,"Etudes, Op. 25: No. 4 in A Minor",Frédéric Chopin,0.995,0.605,0.0505,0.265,0.132,0.494,5.0,1.0,92.948,102707.0,19.0
+932,The Wrong Nigga To Fuck Wit,Ice Cube,0.0535,0.825,0.246,0.914,0.255,0.782,9.0,1.0,106.242,168333.0,43.0
+933,Mujeres Bravas,Los Rehenes,0.715,0.656,0.0525,0.525,0.183,0.926,0.0,1.0,184.321,196347.0,30.0
+934,"The Four Horsemen (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.277,0.244,0.122,0.975,0.623,0.123,0.0,1.0,124.91,320833.0,20.0
+935,This Is the Last Time - Live at Berkeley 9/25/18,The National,0.00134,0.33,0.0436,0.593,0.984,0.361,5.0,0.0,74.931,294031.0,25.0
+936,Cantos De Jubilo,Jaime Murrell,0.68,0.646,0.085,0.793,0.643,0.941,4.0,0.0,127.832,270013.0,34.0
+937,A Little Less Talk And A Lot More Action,Toby Keith,0.123,0.739,0.0401,0.869,0.277,0.92,9.0,1.0,125.07,169453.0,30.0
+938,The Mind of Love,k.d. lang,0.708,0.599,0.0246,0.338,0.178,0.327,5.0,1.0,95.031,228560.0,33.0
+939,"Etudes, Op. 25: No. 3 in F Major",Frédéric Chopin,0.993,0.383,0.0454,0.214,0.133,0.115,0.0,1.0,133.58,118413.0,24.0
+940,Almost Cut My Hair,"Crosby, Stills & Nash",0.478,0.466,0.0773,0.715,0.955,0.429,7.0,1.0,125.172,257933.0,22.0
+941,"12 Etudes, Op.25: No.5 In E Minor",Frédéric Chopin,0.992,0.3,0.0366,0.148,0.136,0.165,4.0,1.0,98.182,173760.0,26.0
+942,Ik Voel Me Rijk Als Een Koning / Container Song - Live,Henk Wijngaard,0.541,0.662,0.0617,0.472,0.69,0.818,0.0,1.0,129.293,299774.0,24.0
+943,La Yaquesita,AJR All-Stars,0.0544,0.842,0.0593,0.626,0.0716,0.819,10.0,0.0,123.302,219402.0,23.0
+944,Cuando No Te Tengo,Los Acosta,0.512,0.744,0.0304,0.65,0.146,0.775,8.0,1.0,101.987,230307.0,29.0
+945,Where Is Love - Kerri Chandler Remaster,Kerri Chandler,0.0065,0.79,0.0624,0.64,0.08,0.514,8.0,1.0,125.912,506009.0,30.0
+946,Risin To The Top - White Room Remix by Alioscia Mele,Bluejean,0.0116,0.805,0.0855,0.939,0.0389,0.78,7.0,1.0,123.001,468293.0,22.0
+947,El Coleadero,Banda La Autentica,0.432,0.628,0.0384,0.405,0.0589,0.957,2.0,1.0,135.993,173976.0,31.0
+948,"Études, Op. 25: No. 12 in C Minor",Frédéric Chopin,0.961,0.15,0.0368,0.175,0.104,0.0513,5.0,0.0,69.938,155227.0,24.0
+949,Here I Am To Worship - Instrumental,Maranatha! Instrumental,0.864,0.46,0.0264,0.272,0.0817,0.0998,3.0,1.0,139.836,283320.0,25.0
+950,"Station Man - Live at Jorgensen Auditorium, University of Connecticut, Storrs, CT, 10/25/75",Fleetwood Mac,0.00355,0.526,0.0309,0.734,0.753,0.492,2.0,1.0,131.704,378080.0,16.0
+951,Earth Angel,Johnny Tillotson,0.793,0.344,0.0314,0.431,0.19,0.688,4.0,1.0,105.97,176667.0,33.0
+952,"New Minglewood Blues - Live at Capital Centre, September 25, 1976",Grateful Dead,0.799,0.587,0.0291,0.688,0.332,0.876,11.0,0.0,95.316,288907.0,16.0
+953,Give Thanks - Instrumental,Maranatha! Instrumental,0.669,0.439,0.0295,0.313,0.0858,0.0398,5.0,1.0,77.016,251667.0,29.0
+954,Beat It 2008 (with Fergie) - Thriller 25th Anniversary Remix feat. Fergie,Michael Jackson,0.00597,0.829,0.0576,0.683,0.185,0.633,10.0,0.0,138.013,251187.0,41.0
+955,El Lechero,Los Originales De San Juan,0.217,0.806,0.0918,0.686,0.316,0.761,0.0,1.0,122.143,193693.0,18.0
+956,Quién Me Ha Robado Tu Corazón,Liberación,0.14,0.618,0.0251,0.602,0.132,0.728,2.0,1.0,99.882,177173.0,26.0
+957,Main Theme (Theme from Basic Instinct) - Original 1992 Soundtrack Album,Jerry Goldsmith,0.808,0.23,0.0376,0.107,0.222,0.0384,4.0,0.0,113.496,135400.0,36.0
+958,Cómo Me Haces Falta,Patrulla 81,0.327,0.562,0.0253,0.564,0.0771,0.731,4.0,1.0,97.207,228413.0,33.0
+959,"12 Etudes, Op. 10: Etude No. 4 in C-Sharp Minor, Op. 10, No. 4",Frédéric Chopin,0.987,0.463,0.0277,0.25,0.213,0.313,6.0,0.0,91.129,116333.0,39.0
+960,Energize Brain – 256 Hz,Chakra Healing Music Academy,0.989,0.0901,0.044,0.013,0.167,0.0393,11.0,1.0,70.715,208805.0,24.0
+961,I Need My Girl - Live at Berkeley 9/25/18,The National,0.0138,0.513,0.0336,0.403,0.649,0.172,0.0,0.0,123.444,252418.0,25.0
+962,Space Tube 25 - Original mix,Captain Hook,0.000185,0.766,0.0702,0.785,0.208,0.0662,1.0,1.0,142.0,926197.0,30.0
+963,Don't Make Me Wait - MAW Main; 2016 - Remaster,NYC Peech Boys,0.000828,0.899,0.0457,0.54,0.0446,0.706,7.0,0.0,113.718,502240.0,29.0
+964,Vas A Sufrir,Grupo Bryndis,0.411,0.588,0.031,0.651,0.324,0.782,5.0,1.0,159.579,224187.0,24.0
+965,"Beethoven: Sonata No. 25 in G Minor, Op. 79, I. Presto alla tedesca",Elsa Mancini,0.994,0.282,0.0358,0.00654,0.102,0.0773,5.0,1.0,79.873,179492.0,20.0
+966,"Bagatelle No. 25 In A Minor ""Für Elise"", Woo 59, Bia 515, (Arr. For Barock Metal Band)",Aethereum,0.588,0.423,0.0468,0.815,0.169,0.0764,7.0,0.0,152.31,238026.0,30.0
+967,You Don't Have To Worry (feat. Fonda Rae) - Original Mix,Bluejean,0.00481,0.839,0.255,0.656,0.0427,0.751,6.0,0.0,118.912,382840.0,24.0
+968,"(Anesthesia) - Pulling Teeth (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.893,0.258,0.0692,0.674,0.526,0.291,2.0,1.0,124.085,177253.0,22.0
+969,Que Somos Amantes,Eva Ayllón,0.591,0.699,0.0341,0.621,0.103,0.391,2.0,0.0,121.539,111813.0,39.0
+970,Kinhink-kinhink,Coupé-Cloué,0.804,0.619,0.101,0.506,0.111,0.797,7.0,1.0,118.097,576533.0,6.0
+971,"12 Etudes, Op.25: No.3 In F",Frédéric Chopin,0.993,0.322,0.033,0.126,0.0879,0.508,0.0,1.0,131.068,111200.0,23.0
+972,Hold My Hand - 2019 Remaster,Hootie & The Blowfish,0.153,0.22,0.0518,0.771,0.0941,0.477,11.0,1.0,173.137,256029.0,27.0
+973,Passin' Me By - Instrumental,The Pharcyde,0.282,0.749,0.291,0.693,0.199,0.553,6.0,0.0,174.143,302453.0,36.0
+974,Mercy Street - 2012 Remaster,Peter Gabriel,0.387,0.568,0.0326,0.228,0.0856,0.0492,1.0,0.0,92.729,382547.0,34.0
+975,"12 Études, Op. 25: Étude No. 11 in A Minor",Frédéric Chopin,0.967,0.328,0.0357,0.203,0.11,0.104,9.0,0.0,91.76,211907.0,37.0
+976,"Mozart: Piano Concerto No. 25 in C Major, K. 503: I. Allegro maestoso",Wolfgang Amadeus Mozart,0.982,0.345,0.038,0.105,0.0815,0.217,0.0,1.0,135.093,937240.0,30.0
+977,"The Creatures of Prometheus, Op. 43: Adagio",Ludwig van Beethoven,0.887,0.222,0.0368,0.157,0.18,0.05,0.0,0.0,93.311,245323.0,14.0
+978,"Symphony No.25 In G Minor, K. 173dB (K.183) USE KV183/y25: Allegro con brio",Wolfgang Amadeus Mozart,0.972,0.286,0.0356,0.129,0.243,0.29,7.0,0.0,151.287,490400.0,25.0
+979,E - Endures; I Peter 1:25,Dana Dirksen,0.925,0.533,0.039,0.162,0.0906,0.963,0.0,1.0,166.24,53720.0,14.0
+980,Mostrame Como Sos - Versión 25 Años,Los Cafres,0.318,0.689,0.316,0.527,0.254,0.712,1.0,0.0,165.593,264400.0,44.0
+981,"Johannespassion, BWV 245: Parte seconda: Allda kreuzigten sie ihn (No. 25a Rezitativ)",Johann Sebastian Bach,0.915,0.413,0.0631,0.0388,0.216,0.0934,4.0,0.0,80.399,69693.0,3.0
+982,"Bagatelle No. 25 in A Minor, WoO 59 ""Für Elise""",Ludwig van Beethoven,0.994,0.218,0.0474,0.0157,0.058,0.126,9.0,0.0,127.306,202400.0,14.0
+983,The I Love You Song,25th Annual Putnam County Spelling Bee Original Cast,0.95,0.286,0.0386,0.254,0.097,0.14,2.0,1.0,161.927,356973.0,40.0
+984,"9 Mazurkas, Op. 25: No. 3 in E Minor",Alexander Scriabin,0.996,0.388,0.0532,0.00452,0.0728,0.111,4.0,0.0,135.82,137328.0,29.0
+985,Give Me Your Love (Love Song),Curtis Mayfield,0.128,0.591,0.0887,0.637,0.0989,0.962,5.0,0.0,172.452,260333.0,37.0
+986,"12 Etudes, Op.25: No.5 In E Minor",Frédéric Chopin,0.992,0.3,0.0366,0.148,0.136,0.165,4.0,1.0,98.182,173760.0,26.0
+987,Lujuria,Banda Roja,0.286,0.722,0.222,0.538,0.217,0.902,5.0,1.0,92.62,179627.0,24.0
+988,"Symphony No. 1, Op. 25 in D ""Classical"": Larghetto",Sergei Prokofiev,0.746,0.236,0.0391,0.00827,0.114,0.039,9.0,1.0,108.905,243107.0,28.0
+989,Mr. Muhammad,A Tribe Called Quest,0.135,0.841,0.288,0.795,0.151,0.522,1.0,1.0,103.659,213253.0,37.0
+990,"(Anesthesia) - Pulling Teeth (Live at the Aragon Ballroom, Chicago, IL - May 25th, 1986)",Metallica,0.893,0.258,0.0692,0.674,0.526,0.291,2.0,1.0,124.085,177253.0,22.0
+991,"12 Etudes, Op.25: No.12 In C Minor",Frédéric Chopin,0.992,0.271,0.0317,0.253,0.189,0.053,5.0,0.0,75.106,151400.0,26.0
+992,Doubleback - Extended Version,Alan Silvestri,0.17,0.597,0.0343,0.489,0.181,0.657,0.0,1.0,127.927,193107.0,31.0
+993,"im friends w 25 letters of the alphabet, i dont know y",Graves,0.0356,0.694,0.341,0.971,0.103,0.526,1.0,1.0,177.99,177978.0,32.0
+994,"12 Etudes, Op.25: No.7 In C Sharp Minor",Frédéric Chopin,0.994,0.313,0.0426,0.0225,0.0689,0.0395,1.0,0.0,107.139,289600.0,23.0
+995,Peace Sells - Remastered,Megadeth,8.57e-05,0.322,0.163,0.932,0.0969,0.376,4.0,0.0,138.042,244160.0,57.0
+996,Point Of No Return (The Train - Part III),Alan Silvestri,0.74,0.414,0.0359,0.59,0.314,0.0831,2.0,1.0,74.198,229333.0,24.0
+997,Kirby Air Ride Medley (Live),Tokyo Philharmonic Orchestra,0.842,0.347,0.0506,0.498,0.692,0.305,4.0,0.0,145.392,288699.0,22.0
+998,"Do Not Worry - Matthew 6:25, 26 & 34a",Steve Green,0.353,0.816,0.0533,0.471,0.103,0.864,0.0,1.0,139.88,122693.0,27.0
+999,I Need My Girl - Live at Berkeley 9/25/18,The National,0.0138,0.513,0.0336,0.403,0.649,0.172,0.0,0.0,123.444,252418.0,25.0
